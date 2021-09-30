@@ -8,7 +8,7 @@ This year we'll be creating monsters. JSON monsters! Fork this repository and ma
 
 1. Fork this Repo
 2. Create a new JSON file named after your monster
-    -- Example: frankenstein.json
+    * Example: frankenstein.json
 3. Write valid JSON describing your monster
 4. Commit your changes
 5. Open a pull request to merge your monster with my repository
