@@ -1,0 +1,26 @@
+{
+  "name": "alcatraz",
+  "stats": {
+    "hp": 250,
+    "ac": 15,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 5,
+    "constitution": 4,
+    "intelligence": 7,
+    "wisdom": 16,
+    "charisma": 2
+  },
+  "attack": {
+    "name": "Big Punch",
+    "damage": 40
+  },
+  "special": {
+      "name": "Trap Fist",
+      "description": "Arms made of iron will trap any enemy with the correct man behind it.",
+      "Effect": "alcatraz uses his massive hands to knock out and trap his enemies within a close range. This will also cause massive damage and stunt the enemy for 5 seconds"
+  }
+     
+}
