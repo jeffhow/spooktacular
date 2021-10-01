@@ -6,7 +6,7 @@
 		"speed": 100
 	},
 	"abilities": {
-		"strength": 3
+		"strength": 3,
 		"dexterity": 5,
 		"constitution": 5,
 		"intelligence": 0,
@@ -16,10 +16,10 @@
 	"attack": {
 		"name": "Freedom of Speech",
 		"damage": 60
-  },
+	},
 	"special": {
 		"name": "Lone Wolf",
-		"description": "The user realizes all they need is their totally alpha self.
-    "effect": "Defense raises by 75% for 300s."
+		"description": "The user realizes all they need is their totally alpha self.",
+		"effect": "Defense raises by 75% for 300s."
 	}
 }
