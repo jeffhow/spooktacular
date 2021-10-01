@@ -1,0 +1,25 @@
+{
+  "name": "Kirby",
+  "stats": {
+    "hp": 100,
+    "ac": 45,
+    "speed": 75
+  },
+  "abilities": {
+    "strength": 60,
+    "dexterity": 40,
+    "constitution": 30,
+    "intelligence": 15,
+    "wisdom": 25,
+    "charisma": 80
+  },
+  "attack":{
+    "name": "Inhale",
+    "damage": 90
+  },
+  "special": {
+      "name": "Hypernova Destruction",
+      "description": "Kirby eats a magical fruit and then goes rainbow and has the ability to suck everyone with a tornado like suck killing all of his foes",
+      "effect": "Everyone that gets stuck in the move instantly dies."
+  }
+}
