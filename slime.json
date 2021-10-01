@@ -1,0 +1,25 @@
+{
+  "name": "slime",
+  "stats": {
+    "hp": 10,
+    "ac": 5,
+    "speed": 2
+  },
+  "abilities": {
+    "strength": 4,
+    "dexterity": 4,
+    "constitution": 7,
+    "intelligence": 6,
+    "wisdom": 3,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "Sludgy slap",
+    "damage": 12
+  },
+  "special": {
+      "name": "absorb",
+      "description": "the slime absorbs nearbye slimes and grows bigger",
+      "effect": "slime grows in size"
+  }
+}
