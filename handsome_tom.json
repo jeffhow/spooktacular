@@ -1,0 +1,25 @@
+{
+  "name": "Handsome Tom",
+  "stats": {
+    "hp": 133,
+    "ac": 12,
+    "speed": 11
+  },
+  "abilities": {
+    "strength": 12,
+    "dexterity": 8,
+    "constitution": 12,
+    "intelligence": 8,
+    "wisdom": 12,
+    "charisma": 2
+  },
+  "attack": {
+    "name": "charming grin",
+    "damage": 75
+  },
+  "special": {
+    "name": "Brainshock a",
+    "description": "Uses PSI energy to warp the target's mind",
+    "effect": "causes the affected target to feel strange, which may cause them to attack their allies."
+  }
+}

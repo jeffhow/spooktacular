@@ -1,0 +1,25 @@
+{
+  "name": "Genesis X",
+  "stats": {
+    "hp": 100,
+    "ac": 5,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 30,
+    "dexterity": 3,
+    "constitution": 3,
+    "intelligence": 3,
+    "wisdom": 3,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "Mesmerize",
+    "damage": 40
+  },
+  "special": {
+      "name": "Secret Tunnel",
+      "description": "Genesis mines a tunnel underneath the enemies and wuickly emerges from the ground.",
+      "effect": "All enemies on the battlefield take 100 damage."
+  }
+}

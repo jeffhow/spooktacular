@@ -1,0 +1,25 @@
+{
+	"name": "Guillermo The Slayer",
+	"stats": {
+		"hp": 50,
+		"ac": 12,
+		"speed": 5
+	},
+	"abilities": {
+		"strength": 15,
+		"dexterity": 15,
+		"constitution": 15,
+		"intelligence": 10,
+		"wisdom": 10,
+		"charisma": 12
+	},
+	"attack": {
+		"name": "Stake",
+		"damage": 50
+	},
+	"special": {
+		"name": "Dust 'em",
+		"description": "A stake suddenly appears, almost accidentally between the caster and the target's heart.",
+		"effect": "Immediate death to any vampire struck by this attack."
+	}
+}

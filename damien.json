@@ -1,0 +1,25 @@
+{
+	"name": "Damien",
+	"stats": {
+		"hp": 840,
+		"ac": 7,
+		"speed": 45
+	},
+	"abilities": {
+		"strength": 20,
+		"dexterity": 27,
+		"constitution": 30,
+		"intelligence": -10,
+		"wisdom": 8,
+		"charisma": 20
+	},
+	"attack": {
+		"name": "toss beans",
+		"damage": 100
+	},
+	"special": {
+		"name": "Damien Boss",
+		"description": "The Brand has taken hold, and Damien surges with the power of darkness",
+		"effect": "Damien has claimed the full power of darkness"
+	}
+}

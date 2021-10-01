@@ -1,0 +1,25 @@
+{
+  "name": "Kraken",
+  "stats": {
+    "hp": 250,
+    "ac": 40,
+    "speed": 55
+  },
+  "abilities": {
+    "strength": 35,
+    "dexterity": 60,
+    "constitution": 35,
+    "intelligence": 20,
+    "wisdom": 21,
+    "charisma": 3
+  },
+  "attack": {
+    "name": "Vortex",
+    "damage": 60
+  },
+  "special": {
+      "name": "Lightning Strike",
+      "description": "Kraken can generate electricity from the two tentacle-like appendages on its back",
+      "effect": "Bombardes its enemies from the skies as it uses its abilities to control the battlefield."
+  }
+}

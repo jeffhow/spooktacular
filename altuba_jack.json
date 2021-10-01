@@ -1,0 +1,25 @@
+{
+	"name": "Altuba Jack",
+	"stats": {
+		"hp": 50,
+		"ac": 10,
+		"speed": 30
+	},
+	"abilities": {
+		"strength": 47,
+		"dexterity": 30,
+		"constitution": 6,
+		"intelligence": 16,
+		"wisdom": 30,
+		"charisma": 7
+	},
+	"attack": {
+		"name": "Thunderstorm",
+		"damage": 27
+	},
+	"special": {
+		"name": "Electric lightning",
+		"description": "Electric breathing dragon known for destruction through lightning strikes",
+		"effect": "spreads terror and attacks the enemy with lightning strikes"
+	}
+}

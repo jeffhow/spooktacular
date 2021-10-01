@@ -1,0 +1,25 @@
+{
+  "name": "Rock and Roller",
+  "stats": {
+    "hp": 50,
+    "ac": 20,
+    "speed": 70
+  },
+  "abilities": {
+    "strength": 60,
+    "dexterity": 50,
+    "constitution": 40,
+    "intelligence": 2,
+    "wisdom": 0,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "Rock-toberfest",
+    "damage": 50
+  },
+  "special": {
+      "name": "Rocknarok",
+      "description": "Summons a big Rock from Outer Space, laying waste to the battle field while Rock and Roller plays a pleasant tune on their guitar, protecting their allies and healing them.",
+      "effect": "Summons a big rock that does a lot of damage and heals their allies."
+  }
+}

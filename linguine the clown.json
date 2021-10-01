@@ -1,0 +1,25 @@
+{
+  "name": "linguine the clown",
+  "stats": {
+    "hp": 50,
+    "ac": 10,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 130,
+    "dexterity": 12,
+    "constitution": 14,
+    "intelligence": 49,
+    "wisdom": 20,
+    "charisma": 12
+  },
+  "attack": {
+    "name": "Mr.dawn",
+    "damage": 68
+  },
+  "special": {
+      "name": "Raise Dead",
+      "description": "dressed in a pengiun suit,sucks healium and laughs constantly to scare u ",
+      "effect": "use ur own weaponary such as laughing gas to put me out of my misery .
+        }
+      }

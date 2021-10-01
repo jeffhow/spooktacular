@@ -1,0 +1,25 @@
+{
+  "name": "Vinny NYC",
+  "stats": {
+    "hp": 1000,
+    "ac": 1000,
+    "speed": 1000
+  },
+  "abilities": {
+    "strength": 900,
+    "dexterity": 500,
+    "constitution": 100,
+    "intelligence": 1,
+    "wisdom": 1,
+    "charisma": 100
+  },
+  "attack": {
+    "name": "ey i'm walkin here",
+    "damage": 1000
+  },
+  "special": {
+      "name": "pasta throw",
+      "description": "throws his skinky pasta that has been mixed with sardines and trash",
+      "effect": "makes you gag and throw up constantly"
+  }
+}

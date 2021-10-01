@@ -1,0 +1,25 @@
+{
+  "name": "Nose",
+  "stats": {
+    "hp": 30,
+    "ac": 35,
+    "speed": 35
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 30,
+    "constitution": 30,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "Sneeze",
+    "damage": 10
+  },
+  "special": {
+      "name": "Allergies",
+      "description": "A series of 3 sneezes",
+      "effect": "damage of 30"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Delight",
+  "stats": {
+    "hp": 40,
+    "ac": 30,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 10,
+    "constitution": 10,
+    "intelligence": 20,
+    "wisdom": 20,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "The story",
+    "damage": 5
+  },
+  "special": {
+      "name": "Never end ",
+      "description": "The telling of the never ending story",
+      "effect": "inflicts 10 damage and teleports to randoml place"
+  }
+}

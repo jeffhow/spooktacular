@@ -1,0 +1,25 @@
+{
+  "name": "Pete Rat John",
+  "stats": {
+    "hp": 60,
+    "ac": 22,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 5,
+    "dexterity": 42,
+    "constitution": 16,
+    "intelligence": 20,
+    "wisdom": 4,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "RatKet Launchair",
+    "damage": 142
+  },
+  "special": {
+      "name": "Cheesey heal",
+      "description": "Eat cheese to heal yourself or allies",
+      "effect": "Heals the consumer for 300hp"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Werewolf",
+  "stats": {
+    "hp": 50,
+    "ac": 15,
+    "speed": 40,
+  },
+  "abilities": {
+    "strength": 45,
+    "dexterity": 30,
+    "constitution": 5,
+    "intelligence": 15,
+    "wisdom": 15,
+    "charisma": 5,
+  },
+  "attack": {
+    "name": "shape shift",
+    "damage": 10,
+  },
+  "special": {
+      "name": "Lycanthropy Bite",
+      "description": "The bite that causes the bitten to believe they are a werewolf.",
+      "effect": "Causes a mental disorder in the bitten's mind."
+  }
+}

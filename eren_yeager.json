@@ -1,0 +1,25 @@
+{
+    "name": "Eren Yeager",
+    "stats": {
+        "hp": 100,
+        "ac": 50,
+        "speed": 40
+    },
+    "abilities": {
+        "strength": 30,
+        "dexterity": 36,
+        "constitution": 42,
+        "intelligence": 75,
+        "wisdom": 80,
+        "charisma": 80
+    },
+    "attack": {
+        "name": "Crusher",
+        "damage": 92
+    },
+    "special": {
+        "name": "Give Me Freedom",
+        "description": "Becomes a Titan itself and can Destroy it's enemy's just like a mere ants",
+        "effect": "It searches for the Freedom whenever someone wants to control him and is the strongest being on the Earth.."
+    }
+}

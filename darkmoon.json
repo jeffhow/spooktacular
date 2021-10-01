@@ -1,0 +1,25 @@
+{
+  "name": "Dark Moon",
+  "stats": {
+    "hp": 75,
+    "ac": 100,
+    "speed": 15
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 14,
+    "constitution": 15,
+    "intelligence": 18,
+    "wisdom": 16,
+    "charisma": 20
+  },
+  "attack": {
+    "name": "New Moon Blast",
+    "damage": 66
+  },
+  "special": {
+      "name": "Solar Eclispe",
+      "description": "Uses the power from the eclipse to rain down destruction on her enemies",
+      "effect": "Deals massive aoe damage. Lowers attack for 5 seconds. *If used during night, also lowers defense*"
+  }
+}
