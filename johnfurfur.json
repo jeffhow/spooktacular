@@ -1,0 +1,25 @@
+{
+	"name": "John",
+	"stats": {
+		"hp": 10,
+		"ac": 10,
+		"speed": 20
+	},
+	"abilities": {
+		"strength": 10,
+		"dexterity": 10,
+		"constitution": 10,
+		"intelligence": 4,
+		"wisdom": 1,
+		"charisma": 1
+	},
+	"attack": {
+		"name": "thievery",
+		"damage": 20
+	},
+	"special": {
+		"name": "Give Me Money",
+		"description": "John is a mastermind in thievery, which is evident with the majority of his schemes amount to John actually being able to steal his target, albeit temporarily.",
+		"effect": "He can fool Motu and other people. He is also very good at mimicry and disguise."
+	}
+}
