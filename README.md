@@ -16,6 +16,8 @@ This year we'll be creating monsters. JSON monsters! Fork this repository and ma
 5. Open a pull request to merge your monster with my repository.
 6. Repeat for three more monsters.
 
+**Please make names in snake_case.**
+
 Use this format for JSON monsters to be valid:
 
 ```
