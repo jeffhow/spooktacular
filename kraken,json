@@ -1,0 +1,25 @@
+{
+  "name": "kraken",
+  "stats": {
+    "hp": 10000,
+    "ac": 0,
+    "speed": 1000
+  },
+  "abilities": {
+    "strength": 10000,
+    "dexterity": 5000,
+    "constitution": 5000,
+    "intelligence": 50,
+    "wisdom": 50,
+    "charisma": 50
+  },
+  "attack": {
+    "name": "whirlpool",
+    "damage": 100
+  },
+  "special": {
+      "name": "seagrave",
+      "description": "kills all the ships in the sea",
+      "effect": "10000"
+  }
+}
