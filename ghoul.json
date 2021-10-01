@@ -1,0 +1,25 @@
+{
+    "name":"Ghoul",
+    "stats": {
+        "hp": 180,
+        "ac": 110,
+        "speed": 46
+    },
+    "abilities": {
+        "strength": 19,
+        "dexterity": 8,
+        "constitution": 23,
+        "intelligence": 17,
+        "wisdom": 32,
+        "charisma": 3
+    },
+    "attack": {
+        "name": "Bite",
+        "damage": 48
+    },
+      "special": {
+          "name": "Ghoulish Devour",
+          "description": "Uses it's razor-sharp teeth to bite and tear apart the victim.",
+          "effect": "Inflicts massive impact damage and mimics victim's abilites."
+    }
+}
