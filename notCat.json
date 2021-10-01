@@ -1,0 +1,25 @@
+{
+  "name": "Not A Cat",
+  "stats": {
+    "hp": 1,
+    "ac": 100,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 15,
+    "dexterity": 5,
+    "constitution": 17,
+    "intelligence": 18,
+    "wisdom": 2,
+    "charisma": -1
+  },
+  "attack": {
+    "name": "Sleepy Roar",
+    "damage": 75
+  },
+  "special": {
+      "name": "Sleep",
+      "description": "This creature that looks like a cat, but is not, goes to sleep, regenerating the little energy it spent",
+      "effect": "Regenerates health and adds 25 ac."
+  }
+}

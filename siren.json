@@ -1,0 +1,25 @@
+{
+  "name": "Siren",
+  "stats": {
+    "hp": 25,
+    "ac": 10,
+    "speed": 30,
+  },
+  "abilities": {
+    "strength": 28,
+    "dexterity": 12,
+    "constitution": 50,
+    "intelligence": 5,
+    "wisdom": 5,
+    "charisma": 80,
+  },
+  "attack": {
+    "name": "drowner",
+    "damage": 50,
+  },
+  "special": {
+      "name": "Siren Song",
+      "description": "Siren sings a song that enchants men who listen.",
+      "effect": "Hypnotizes men that leads them into Death's grasp."
+  }
+}

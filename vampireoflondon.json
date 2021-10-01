@@ -1,0 +1,25 @@
+{
+  "name": "Vampire",
+  "stats": {
+    "hp": 50,
+    "ac": 26,
+    "speed": 75
+  },
+  "abilities": {
+    "strength": 80,
+    "dexterity": 13,
+    "constitution": 20,
+    "intelligence": 10,
+    "wisdom": 45,
+    "charisma": 20
+  },
+  "attack": {
+    "name": "porphyria",
+    "damage": 34
+  },
+  "special": {
+      "name": "Bat Shift",
+      "description": "Changes into a bat to hide from attackers and victims.",
+      "effect": "Distracts the victims or attackers by making them wonder."
+  }
+}

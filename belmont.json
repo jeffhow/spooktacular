@@ -1,0 +1,25 @@
+{
+  "name": "Trevor Belmont",
+  "stats": {
+    "hp": 50,
+    "ac": 10,
+    "speed": 15
+  },
+  "abilities": {
+    "strength": 18,
+    "dexterity": 20,
+    "constitution": 16,
+    "intelligence": 18,
+    "wisdom": 12,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "Holy Whip",
+    "damage": 100
+  },
+  "special": {
+      "name": "Holy Dual-Whip Flame",
+      "description": "Channels a holy flame from two whips into a swirling pillar around the caster before being fired off",
+      "effect": "Calls upon a tornado of holy flames to engulf the opponent and deal heavy damage and inflict burns. Deals three times more damage to monsters like undead or demons."
+  }
+}

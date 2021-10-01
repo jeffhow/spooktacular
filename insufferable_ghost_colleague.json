@@ -14,11 +14,11 @@
     "charisma": 8
   },
   "attack": {
-    "name": "shuffle papers unnecessarily loudly",
+    "name": "Shuffle papers unnecessarily loudly",
     "damage": 250
   },
   "special": {
-      "name": "Trap In Mind-Numbingly Tedious Conversation",
+      "name": "Trap in mind-numbingly tedious conversation",
       "description": "Initiates another 30 minute conversation about the monster's novelty outlet cover collection",
       "effect": "wastes 30 minutes"
   }

@@ -1,0 +1,25 @@
+{
+  "name": "???",
+  "stats": {
+    "hp": 25,
+    "ac": 10,
+    "speed": 60
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 50,
+    "constitution": 10,
+    "intelligence": 12,
+    "wisdom": 8,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "dark bind",
+    "damage": 15
+  },
+  "special": {
+      "name": "Call to Shadows",
+      "description": "Summons multiple shadow tendrils to attack and impale foes",
+      "effect": "Summons 2-5 dark appendages from the caster to deal damage and inflict bleed on enemies."
+  }
+}

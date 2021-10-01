@@ -1,0 +1,25 @@
+{
+  "name": "Wyvern",
+  "stats": {
+    "hp": 5000,
+    "ac": 100,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 24,
+    "dexterity": 12,
+    "constitution": 14,
+    "intelligence": 6,
+    "wisdom": 12,
+    "charisma": 4
+  },
+  "attack": {
+    "name": "Draconic bite",
+    "damage": 500
+  },
+  "special": {
+      "name": "White Hot Fire",
+      "description": "The wyvern breathes searing hot flame, and this is just one of the lesser dragons!",
+      "effect": "Deals 700 aoe fire damage."
+  }
+}

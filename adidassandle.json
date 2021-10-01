@@ -1,0 +1,30 @@
+{
+  "name": "Adidas Sandle",
+  "stats": {
+    "hp": 2000,
+    "ac": 10,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 43,
+    "dexterity": 16,
+    "constitution": 100000,
+    "intelligence": 14,
+    "wisdom": 12,
+    "charisma": 8
+  },
+  "attack": {
+    "name": "Smack",
+    "damage": 5000
+  },
+  "special": {
+    "name": "Fly",
+    "description": "The Sandle can Fly",
+    "effect": "If the Sandle is willing, it can be worn and allow the wearer to Fly and survive in harsh conditions like space, sub zero and the sun's surface"
+  },
+  "special2": {
+    "name": "Create clone",
+    "description": "Can clone itself",
+    "effect": "Can clone itself 10 times for a total of 20 individual sandles. The life of the original doesn't matter, as long as one sandle is alive, it can make more of itself"
+  }
+}

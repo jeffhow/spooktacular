@@ -1,0 +1,25 @@
+{
+  "name": "gopnik",
+  "stats": {
+    "hp": 500,
+    "ac": 18,
+    "speed": 50
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 14,
+    "constitution": 18,
+    "intelligence": 5,
+    "wisdom": 12,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "Ak-47",
+    "damage": 85
+  },
+  "special": {
+      "name": "Russian Squat",
+      "description": "Squat down and hunker for more defense and aim stability",
+      "effect": "halfves all damage and increases ac by 6 and increases aim by 50% while squating"
+  }
+}

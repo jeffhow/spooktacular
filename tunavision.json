@@ -1,0 +1,29 @@
+{
+  "name": "Tunavision",
+  "stats": {
+  "hp": 25,
+  "ac": 50,
+  "speed": 30
+    
+  },
+  "abilities": {
+    "strength": 40,
+    "dexterity": 35,
+    "constitution": 40,
+    "intelligence": 60,
+    "wisdom": 50,
+    "charisma": 30
+    
+  },
+  "attack": {
+    "name": "Tuna Eye",
+    "damage": 40
+
+  },
+  "special": {
+    "name": "Psychatunic Vision",
+    "description": "Uses psychic abilities to rain down tuna from the sky, damaging whoever it hits.",
+    "effect": "Rains down tuna on the enemies, hurting all of them."
+   
+  }
+}

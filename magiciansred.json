@@ -1,0 +1,25 @@
+{
+  "name": "Magicians Red",
+  "stats": {
+    "hp": 80,
+    "ac": 20,
+    "speed": 70
+  },
+  "abilities": {
+    "strength": 40,
+    "dexterity": 12,
+    "constitution": 12,
+    "intelligence": -5,
+    "wisdom":  0,
+    "charisma": 6
+  },
+  "attack": {
+    "name": "Pyrokinesis",
+    "damage": 80
+  },
+  "special": {
+      "name": "Cross Fire Hurricane",
+      "description": "Magician's Red can fire a few salvos of the Crossfire Hurricane, a spectacular signature move that sends forth ankhsW of flame from its mouth in a great storm.[4] They have shown to be powerful enough to melt off the armor of Silver Chariot as it was being removed.",
+      "effect": "Inflicts massive impact damage and adds poison for 5 seconds"
+  }
+}
