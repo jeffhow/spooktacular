@@ -3,7 +3,7 @@
   "stats": {
     "hp": 500,
     "ac": 18,
-    "speed": 100
+    "speed": 50
   },
   "abilities": {
     "strength": 20,
