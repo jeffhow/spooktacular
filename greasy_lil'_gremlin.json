@@ -14,7 +14,7 @@
     "charisma": 10
   },
   "attack": {
-    "name": "Toss Beans",
+    "name": "toss beans",
     "damage": 20
   },
   "special": {
