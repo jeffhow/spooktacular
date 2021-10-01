@@ -1,9 +1,9 @@
 {
-  "name": "Kobold"
+  "name": "Kobold",
   "stats": {
     "hp": 10.
     "ac": 2,
-    "speed": 10,
+    "speed": 10
 },
 "abilities": {
   "strength": 6,
@@ -15,7 +15,7 @@
   },
   "attack": {
     "name": "sword poke",
-    "damage": 5,
+    "damage": 5
     
   },
   "special": {
