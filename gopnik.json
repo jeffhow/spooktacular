@@ -11,7 +11,7 @@
     "constitution": 18,
     "intelligence": 5,
     "wisdom": 12,
-    "charisma": 10,
+    "charisma": 10
   },
   "attack": {
     "name": "Ak-47",
@@ -20,6 +20,6 @@
   "special": {
       "name": "Russian Squat",
       "description": "Squat down and hunker for more defense and aim stability",
-      "effect": "halfves all damage and increases ac by 6 and increases aim by 50% while squating",
+      "effect": "halfves all damage and increases ac by 6 and increases aim by 50% while squating"
   }
 }
