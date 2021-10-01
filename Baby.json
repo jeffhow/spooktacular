@@ -14,12 +14,12 @@
     "charisma": 15
   },
   "attack": {
-    "name": "bottle",
+    "name": "Bottle",
     "damage": 5
   },
   "special": {
       "name": "Playdate",
       "description": "Throws all its toys at target",
-      "effect": "inpacts 5 damage and decreases speed by 5 for 10 seconds"
+      "effect": "Impacts 5 damage and decreases speed by 5 for 10 seconds"
   }
 }
