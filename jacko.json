@@ -1,0 +1,25 @@
+{
+  "name": "Jack-o",
+  "stats": {
+    "hp": 100,
+    "ac": 10,
+    "speed": 50
+  },
+  "abilities": {
+    "strength": 3,
+    "dexterity": 3,
+    "constitution": 5,
+    "intelligence": 4,
+    "wisdom": 10,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "Candle Toss",
+    "damage": 30
+  },
+  "special": {
+      "name": "Stem Stampede",
+      "description": "Jack-o summons all of his friends from the pumpkin patch to trample the enemy selected.",
+      "effect": "The enemy selected takes 200 damage. Flip a coin. If heads all enemies on the battlefield will take 40 damage."
+  }
+}

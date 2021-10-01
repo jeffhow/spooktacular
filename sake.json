@@ -1,0 +1,25 @@
+{
+    "name":"Sake",
+    "stats": {
+        "hp": 200,
+        "ac": 150,
+        "speed": 50
+    },
+    "abilities": {
+        "strength": 60,
+        "dexterity": 15,
+        "constitution": 25,
+        "intelligence": 15,
+        "wisdom": 50,
+        "charisma": 20
+    },
+    "attack": {
+        "name": "strong punch",
+        "damage": 100
+    },
+      "special": {
+          "name": "Genjustsu",
+          "description": "Uses visual illusions to throw enemy off balance and makes them weak for some moments  ",
+          "effect": "gives you crippling anxiety"
+    }
+}

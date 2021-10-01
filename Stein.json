@@ -1,0 +1,25 @@
+{
+	"name": "Stein",
+	"stats": {
+		"hp": 500,
+		"ac": 10,
+		"speed": 100
+	},
+	"abilities": {
+		"strength": 200,
+		"dexterity": 100,
+		"constitution": 46,
+		"intelligence": 500,
+		"wisdom": 500,
+		"charisma": 20
+	},
+	"attack": {
+		"name": "Soul Purge",
+		"damage": 150
+	},
+	"special": {
+		"name": "Soul Purge: Twin Lance",
+		"description": "Works the same as Soul Purge but using 2 palms and more powerful",
+		"effect": "Attacks the person from the soul inside the body damaging them internally stunning"
+	}
+}
