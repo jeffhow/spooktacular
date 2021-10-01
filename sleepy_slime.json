@@ -1,0 +1,25 @@
+{
+  "name": "Sleepy Slime",
+  "stats": {
+    "hp": 70,
+    "ac": 6,
+    "speed": 3
+  },
+  "abilities": {
+    "strength": 6,
+    "dexterity": 0,
+    "constitution": 18,
+    "intelligence": 10,
+    "wisdom": 6,
+    "charisma": 8
+  },
+  "attack": {
+    "name": "nap",
+    "damage": 0
+  },
+  "special": {
+      "name": "Phone Alarm",
+      "description": "The monster's phone alarm goes off, annoying everyone",
+      "effect": "the slime becomes target for everyone's attacks this turn"
+  }
+}

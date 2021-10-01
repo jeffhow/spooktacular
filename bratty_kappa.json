@@ -1,5 +1,5 @@
 {
-  "name": "BrattyKappa",
+  "name": "Bratty Kappa",
   "stats": {
     "hp": 45,
     "ac": 7,
@@ -14,11 +14,11 @@
     "charisma": -12
   },
   "attack": {
-    "name": "'accidently' steps on the back of your shoe",
+    "name": "'accidentally' steps on the back of your shoe",
     "damage": 90
   },
   "special": {
-      "name": "cucumber raid",
+      "name": "Cucumber Raid",
       "description": "the monster mugs you, stealing and consuming all cucumbers on your person",
       "effect": "If you are carrying any cucumbers, they are now gone."
   }
