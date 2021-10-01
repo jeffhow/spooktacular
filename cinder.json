@@ -1,0 +1,25 @@
+{
+  "name": "Soul of Cinder",
+  "stats": {
+    "hp": 500,
+    "ac": 50,
+    "speed": 35
+  },
+  "abilities": {
+    "strength": 50,
+    "dexterity": 25,
+    "constitution": 45,
+    "intelligence": 12,
+    "wisdom": 12,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "weapon shift",
+    "damage": 0
+  },
+  "special": {
+      "name": "Hyper Magic Beam",
+      "description": "Multiple orbs of magical power gather into a single, high damaging beam.",
+      "effect": "The caster is surrounded by 4-5 small orbs of magic that feed into a large beam fired straight forward, dealing major damage for every frame the enemy is hit."
+  }
+}
