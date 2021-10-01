@@ -1,0 +1,25 @@
+{
+    "name": "Donald Trump",
+    "stats": {
+        "hp": 100,
+        "ac": 50,
+        "speed": 40
+    },
+    "abilities": {
+        "strength": 30,
+        "dexterity": 36,
+        "constitution": 42,
+        "intelligence": 75,
+        "wisdom": 80,
+        "charisma": 80
+    },
+    "attack": {
+        "name": "Wall",
+        "damage": 100
+    },
+    "special": {
+        "name": "Exploding Money",
+        "description": "Trump throws money to you that detonate on contact leaving you poor and dead",
+        "effect": "It shows you a life of poverty and you die."
+    }
+}
