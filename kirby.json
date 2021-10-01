@@ -1,0 +1,25 @@
+{
+  "name": "Kirby",
+  "stats": {
+    "hp": 1000,
+    "ac": 1000,
+    "speed": 1000
+  },
+  "abilities":Inhale {
+    "strength": 1000,
+    "dexterity": 1000,
+    "constitution": 1000,
+    "intelligence": 1000,
+    "wisdom": 1000,
+    "charisma": 1000
+  },
+  "attack": Poyo combo {
+    "name": "pOyo punch",
+    "damage": 50
+  },
+  "special": {
+      "name": "Hypernova Destruction",
+      "description": "Kirby eats a magical fruit and then goes rainbow and has the ability to suck everyone with a tornado like suck killing all of his foes",
+      "effect": "Everyone that gets stuck in the move instantly dies."
+  }
+}
