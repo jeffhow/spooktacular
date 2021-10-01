@@ -1,0 +1,25 @@
+{
+  "name": "BrattyKappa",
+  "stats": {
+    "hp": 45,
+    "ac": 7,
+    "speed": 8
+  },
+  "abilities": {
+    "strength": 6,
+    "dexterity": 9,
+    "constitution": 12,
+    "intelligence": 4,
+    "wisdom": 10,
+    "charisma": -12
+  },
+  "attack": {
+    "name": "'accidently' steps on the back of your shoe",
+    "damage": 90
+  },
+  "special": {
+      "name": "cucumber raid",
+      "description": "the monster mugs you, stealing and consuming all cucumbers on your person",
+      "effect": "If you are carrying any cucumbers, they are now gone."
+  }
+}
