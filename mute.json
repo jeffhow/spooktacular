@@ -1,0 +1,25 @@
+{
+  "name": "Mute",
+  "stats": {
+    "hp": 50,
+    "ac": 50,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 12,
+    "dexterity": 15,
+    "constitution": 12,
+    "intelligence": 15,
+    "wisdom": 15,
+    "charisma": 4
+  },
+  "attack": {
+    "name": "Mute",
+    "damage": 45
+  },
+  "special": {
+      "name": "Shhhh...",
+      "description": "This quiet lady takes away the ability of others by using her cursed voice",
+      "effect": "All hit with this move have their special ability locked for 15 seconds."
+  }
+}
