@@ -1,0 +1,25 @@
+{
+  "name": "snakdracula",
+  "stats": {
+    "hp": 100,
+    "ac": 67,
+    "speed": 35
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 12,
+    "constitution": 22,
+    "intelligence": 19,
+    "wisdom": 10,
+    "charisma": 12
+  },
+  "attack": {
+    "name": "von snakkle",
+    "damage": 50
+  },
+  "special": {
+      "name": "fruity amazoin",
+      "description": "The wet outlands wont be easy for your escape , use your head and eyes only",
+      "effect": "hiding amongst the green leaves i'll be unseen but using your shurikens will do bitter damage"
+  }
+}
