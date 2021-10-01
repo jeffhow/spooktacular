@@ -15,7 +15,7 @@
   },
   "attack": {
     "name": "Vodka",
-    "damage": 40,
+    "damage": 40
   },
   "special": {
       "name": "Hard Bass",
