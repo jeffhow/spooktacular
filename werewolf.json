@@ -3,7 +3,7 @@
   "stats": {
     "hp": 60,
     "ac": 20,
-    "speed": 8,
+    "speed": 8
   },
   "abilities": {
     "strength": 20,
@@ -21,3 +21,5 @@
       "name": "Nightly curse",
       "description": "Light turns into darkness,mankind turns into a beast what trickery is this? or is this a curse?",
       "effect": "eating humans bring its health up,starving brings its health low!.
+  }
+}
