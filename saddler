@@ -1,0 +1,25 @@
+{
+  "name": "Osmund Saddler",
+  "stats": {
+    "hp": 100,
+    "ac": 26,
+    "speed": 9
+  },
+  "abilities": {
+    "strength": 16,
+    "dexterity": 12,
+    "constitution": 14,
+    "intelligence": 16,
+    "wisdom": 12,
+    "charisma": 2
+  },
+  "attack": {
+    "name": "Crush",
+    "damage": 90
+  },
+  "special": {
+      "name": "Las Plagas Takeover",
+      "description": "Takes control of any entity containing a Las Plagas parasite.",
+      "effect": "Allows the caster to control any entity infected with Las Plagas."
+  }
+}
