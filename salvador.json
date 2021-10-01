@@ -1,0 +1,25 @@
+{
+  "name": "Dr. Salvador",
+  "stats": {
+    "hp": 500,
+    "ac": 10,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 25,
+    "dexterity": 14,
+    "constitution": 14,
+    "intelligence": 10,
+    "wisdom": 8,
+    "charisma": 12
+  },
+  "attack": {
+    "name": "Chainsaw Slash",
+    "damage": 50
+  },
+  "special": {
+      "name": "Super Salvador",
+      "description": "Strap on another blade and grow to become more powerful!",
+      "effect": "Doubles Chainsaw Slash damage."
+  }
+}
