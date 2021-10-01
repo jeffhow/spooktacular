@@ -1,17 +1,17 @@
 {
   "name": "Mike wazowski",
   "stats": {
-    "hp": 1000,
-    "ac": 1300,
+    "hp": 700,
+    "ac": 1000,
     "speed": 10000
   },
   "abilities": {
-    "strength": 500,
-    "dexterity": 125,
-    "constitution": 115,
-    "intelligence": 600,
-    "wisdom": 500,
-    "charisma": 550
+    "strength": 350,
+    "dexterity": 100,
+    "constitution": 100,
+    "intelligence": 450,
+    "wisdom": 350,
+    "charisma": 350
   },
   "attack": {
     "name": "louderator",
