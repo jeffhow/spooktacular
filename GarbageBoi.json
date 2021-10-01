@@ -1,0 +1,25 @@
+{
+  "name": "Garbage Boi",
+  "stats": {
+    "hp": 100,
+    "ac": 50,
+    "speed": 2
+  },
+  "abilities": {
+    "strength": 15,
+    "dexterity": 5,
+    "constitution": 14,
+    "intelligence": -1,
+    "wisdom": -2,
+    "charisma": 6
+  },
+  "attack": {
+    "name": "Garbage Throw",
+    "damage": 70
+  },
+  "special": {
+      "name": "Trash Boi Beam",
+      "description": "Draws upon the trash in landfills to fire a trash beam. One whiff of the foul smelling beam will leave you emptying your guts.",
+      "effect": "Inflicts massive impact damage and adds poison for 5 seconds"
+  }
+}

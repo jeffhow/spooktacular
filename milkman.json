@@ -1,0 +1,25 @@
+{
+  "name": "Milk Man",
+  "stats": {
+    "hp": 25,
+    "ac": 1,
+    "speed": 15
+  },
+  "abilities": {
+    "strength": 7,
+    "dexterity": 19,
+    "constitution": 5,
+    "intelligence": 14,
+    "wisdom": 10,
+    "charisma": 17
+  },
+  "attack": {
+    "name": "White Milk",
+    "damage": 25
+  },
+  "special": {
+      "name": "Unsweetened Almond Milk",
+      "description": "Reaches into his milk bag and draws to jugs of Unsweetened Almond Milk to shower his enemies with. The taste will leave you paralyzed.",
+      "effect": "Deals aoe milk damage. Stuns for 4.5 seconds."
+  }
+}
