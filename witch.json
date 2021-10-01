@@ -1,0 +1,25 @@
+{
+  "name": "Witch",
+  "stats": {
+    "hp": 42,
+    "ac": 10,
+    "speed": 20,
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 30,
+    "constitution": 12,
+    "intelligence": 50,
+    "wisdom": 50,
+    "charisma": 18,
+  },
+  "attack": {
+    "name": "necromancy",
+    "damage": 25,
+  },
+  "special": {
+    "name": "Demonology Summoning",
+    "description": "Summons a powerful demon with the promise of protection for the conjurer.",
+    "effect": "Summons a demon to help with any certain problem the conjurer has.",
+  }
+}
