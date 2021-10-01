@@ -1,0 +1,25 @@
+{
+	"name": "Owl Bat",
+	"stats": {
+		"hp": 70,
+		"ac": 32,
+		"speed": 28
+	},
+	"abilities": {
+		"strength": 15,
+		"dexterity": 32,
+		"constitution": 18,
+		"intelligence": 27,
+		"wisdom": 6,
+		"charisma": "no"
+	},
+	"attack": {
+		"name": "Bat Attack",
+		"damage": 160
+  },
+	"special": {
+		"name": "Nightly heal",
+		"description": "Night power to heal yourself or allies",
+		"effect": "Heals the consumer for 300hp"
+	}
+}
