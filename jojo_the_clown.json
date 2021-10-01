@@ -1,0 +1,25 @@
+{
+	"name": "Jojo the Clown",
+	"stats": {
+		"hp": 20,
+		"ac": 15,
+		"speed": 8
+	},
+	"abilities": {
+		"strength": 8,
+		"dexterity": 18,
+		"constitution": 12,
+		"intelligence": 10,
+		"wisdom": 9,
+		"charisma": 14
+	},
+	"attack": {
+		"name": "whip",
+		"damage": 2
+	},
+	"special": {
+		"name": "Song and Dance",
+		"description": "A melody fills your head, clouding your thoughts",
+		"effect": "Compels the target to stop what they are doing and begin to sing and dance along with the caster."
+	}
+}
