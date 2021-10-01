@@ -1,0 +1,28 @@
+"name": "Pyra and Mythra",
+	"stats": {
+		"hp": 750,
+		"ac": 40,
+		"speed": 65
+	},
+	"abilities": {
+		"strength": 250,
+		"dexterity": 75,
+		"constitution": 46,
+		"intelligence": 500,
+		"wisdom": 400,
+		"charisma": 200
+	},
+	"attack": {
+		"name": "Flame Nova (Pyra) and Lightning Buster (Mythra)",
+		"damage": 300
+	},
+"attack": {
+		"name": "Swap to Myhra/Pyra",
+		"damage": 20
+	},
+	"special": {
+		"name": "Pneuma's Infinity Blade",
+		"description": "if Pyra or Mythra is active, they transform into their true form, Pnuema, and they infuse a giant beam of pure light energy into their sword and attack their foe causing collasal damage",
+		"effect": "Attacks one foe instantly killing it and the explosion from the impact of the sword causes AOE damage to foes surrounded"
+	}
+}
