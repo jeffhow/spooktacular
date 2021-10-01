@@ -1,0 +1,25 @@
+{
+	"name": "John banega don",
+	"stats": {
+		"hp": 9,
+		"ac": 9,
+		"speed": 4
+	},
+	"abilities": {
+		"strength": 9,
+		"dexterity": 9,
+		"constitution": 9,
+		"intelligence": 2,
+		"wisdom": 7,
+		"charisma": 3
+	},
+	"attack": {
+		"name": "thief",
+		"damage": 70
+	},
+	"special": {
+		"name": "john-banega-don",
+		"description": "John will be the Don, John will be the Don hehe",
+		"effect": "Failure don in the world!"
+	}
+}
