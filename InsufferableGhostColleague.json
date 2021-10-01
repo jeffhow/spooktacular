@@ -1,0 +1,25 @@
+{
+  "name": "InsufferableGhostColleague",
+  "stats": {
+    "hp": 30,
+    "ac": 13,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 6,
+    "dexterity": 8,
+    "constitution": 14,
+    "intelligence": 9,
+    "wisdom": 6,
+    "charisma": 8
+  },
+  "attack": {
+    "name": "Shuffle papers unnecessarily loudly",
+    "damage": 250
+  },
+  "special": {
+      "name": "Trap in tedious conversation",
+      "description": "Initiates another 30 minute conversation about the monster's novelty outlet cover collection",
+      "effect": "wastes 30 minutes"
+  }
+}
