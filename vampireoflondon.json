@@ -3,7 +3,7 @@
   "stats": {
     "hp": 50,
     "ac": 26,
-    "speed": 75,
+    "speed": 75
   },
   "abilities": {
     "strength": 80,
@@ -11,11 +11,11 @@
     "constitution": 20,
     "intelligence": 10,
     "wisdom": 45,
-    "charisma": 20,
+    "charisma": 20
   },
   "attack": {
     "name": "porphyria",
-    "damage": 34,
+    "damage": 34
   },
   "special": {
       "name": "Bat Shift",
