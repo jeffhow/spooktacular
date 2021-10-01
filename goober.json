@@ -1,0 +1,25 @@
+{
+  "name": "Goober",
+  "stats": {
+    "hp": 30,
+    "ac": 13,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 15,
+    "constitution": 12,
+    "intelligence": 4,
+    "wisdom": 4,
+    "charisma": 15
+  },
+  "attack": {
+    "name": "Booger sneeze",
+    "damage": 500
+  },
+  "special": {
+      "name": "Diarrhea Combustion",
+      "description": "The Taco Bell fumes burn the enimies",
+      "effect": "Dies of dysentery"
+  }
+}
