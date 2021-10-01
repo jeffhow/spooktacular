@@ -1,7 +1,7 @@
 {
   "name": "Kobold",
   "stats": {
-    "hp": 10.
+    "hp": 10,
     "ac": 2,
     "speed": 10
 },
