@@ -1,0 +1,25 @@
+{
+  "name": "Verdugo",
+  "stats": {
+    "hp": 6000,
+    "ac": 500,
+    "speed": 55
+  },
+  "abilities": {
+    "strength": 99,
+    "dexterity": 55,
+    "constitution": 14,
+    "intelligence": 18,
+    "wisdom": 8,
+    "charisma": 16
+  },
+  "attack": {
+    "name": "Tail Blade",
+    "damage": 99
+  },
+  "special": {
+      "name": "Burrow",
+      "description": "Bury yourself in the ground to negate all damage.",
+      "effect": "Buries underground for 2 turns."
+  }
+}
