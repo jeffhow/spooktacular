@@ -1,0 +1,29 @@
+{
+  "name": "TV tuner",
+  "stats": {
+  "hp": 50,
+  "ac": 25,
+  "speed": 40
+    
+  },
+  "abilities": {
+    "strength": 34,
+    "dexterity": 48,
+    "constitution": 50,
+    "intelligence": 50,
+    "wisdom": 40,
+    "charisma": 20
+    
+  },
+  "attack": {
+    "name": "Tuna Piano",
+    "damage": 62
+    
+  },
+  "special": {
+    "name": "Can't Tuna Fish",
+    "description": "Tunes all their allies to peak tuna perfection.",
+    "effect": "Heals and buffs their allies."
+   
+  }
+}
