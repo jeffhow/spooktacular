@@ -6,10 +6,10 @@
     "speed": 10000
   },
   "abilities": {
-    "strength": 350,
-    "dexterity": 100,
+    "strength": 400,
+    "dexterity": 5000,
     "constitution": 100,
-    "intelligence": 450,
+    "intelligence": 500,
     "wisdom": 350,
     "charisma": 350
   },
@@ -19,7 +19,7 @@
   },
   "special": {
       "name": "The Ruash",
-      "description": "Runs at the speed of light to ether block or destroy the enemy's.Does upwards of 5000-10000 damage.Legendary drop.",
+      "description": "Runs at the speed of light to ether block or destroy the enemy's.Does upwards of 2000-5000 damage.Final Boss.",
       "effect": "Destroys everything in its path as attack. Blocks every attack except from the flash's attack"
   }
 }
