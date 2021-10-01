@@ -10,7 +10,7 @@ This year we'll be creating monsters. JSON monsters! Fork this repository and ma
 
 0. Register your GitHub account with the Hacktoberfest event: 
     * [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-1. Fork this Repo.
+1. Fork this Repository.
 2. Create a new JSON file named after your monster.
     * Example: frankenstein.json
 3. Write valid JSON describing your monster, and then verify it here: (https://jsonlint.com/)
