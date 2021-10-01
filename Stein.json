@@ -1,4 +1,5 @@
-"name": "Stein",
+{
+	"name": "Stein",
 	"stats": {
 		"hp": 500,
 		"ac": 10,
