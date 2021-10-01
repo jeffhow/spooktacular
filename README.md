@@ -1,13 +1,19 @@
-# spooktacular
-*2021 Hactoberfest Repository*
+# 
+<p align = 'center'>
+    <img src = "https://img.shields.io/badge/Spooktacular-4bc275F?style=round" width = '40%'/> 
+</p>
 
-It's that time of year again! Welcome to my 2021 Hacktoberfest Repository.
+**2021 Hactoberfest Repository**
+
+**It's that time of year again!**
+
+**Welcome to my 2021 Hacktoberfest 🎊✨ Repository.**
 
 ## How to participate
 This year we'll be creating monsters. JSON monsters! Fork this repository and make a pull request for each of your monsters.
 
 0. Register your GitHub account with the Hacktoberfest event: 
-    * *[Hacktoberfest] (https://hacktoberfest.digitalocean.com/)*
+[**Hacktoberfest**](https://hacktoberfest.digitalocean.com/)
 1. Fork this Repo
 2. Create a new JSON file named after your monster
     * Example: frankenstein.json
@@ -16,4 +22,4 @@ This year we'll be creating monsters. JSON monsters! Fork this repository and ma
 5. Open a pull request to merge your monster with my repository
 6. Repeat for three more monsters
 
-*Happy Hacking!*
+*Happy 🤗Hacking!*
