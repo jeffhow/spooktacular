@@ -1,0 +1,29 @@
+{
+  "name": "Baby Shark",
+  "stats": {
+    "hp": 5,
+    "ac": 0,
+    "speed": 6
+  },
+  "abilities": {
+    "strength": 8,
+    "dexterity": 8,
+    "constitution": 8,
+    "intelligence": 0,
+    "wisdom": 0,
+    "charisma": 16
+  },
+  "attack": {
+    "name": "bite",
+    "damage": 5
+  },
+  "special": {
+      "name": "DEAR GOD MAKE IT STOP",
+      "description": "Plays the song baby shark on repeat in the parties heads even after it dies.",
+      "effect": "Causes extreme debuffs to team morale and sanity, may cause weaker players heads to explode."
+  }
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Se
