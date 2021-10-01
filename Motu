@@ -1,0 +1,25 @@
+{
+	"name": "Motu",
+	"stats": {
+		"hp": 90,
+		"ac": 90,
+		"speed": 40
+	},
+	"abilities": {
+		"strength": 90,
+		"dexterity": 90,
+		"constitution": 90,
+		"intelligence": 20,
+		"wisdom": 70,
+		"charisma": 30
+	},
+	"attack": {
+		"name": "samosa",
+		"damage": 90
+	},
+	"special": {
+		"name": "Motu-furfurinagar",
+		"description": "Eat samosas and beat any big titan.",
+		"effect": "Even thanos is nothing if motu eats samosas."
+	}
+}
