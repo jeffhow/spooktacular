@@ -1,0 +1,25 @@
+{
+	"name": "Tarasque",
+	"stats": {
+		"hp": 999,
+		"ac": 999,
+		"speed": 10
+	},
+	"abilities": {
+		"strength": 30,
+		"dexterity": 20,
+		"constitution": 50,
+		"intelligence": 5,
+		"wisdom": 10,
+		"charisma": 8
+	},
+	"attack": {
+		"name": "bite",
+		"damage": 500
+	},
+	"special": {
+		"name": "Swallow whole",
+		"description": "The creature opens its huge maw and dives towards you",
+		"effect": "Immediate death to any creature swallowed by this attack"
+	}
+}
