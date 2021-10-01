@@ -1,0 +1,24 @@
+{
+	"name": "The Gwim Weaper UwU",
+	"stats": {
+		"hp": 80000,
+		"ac": 85,
+		"speed": 10
+	},
+	"abilities": {
+		"strength": 90,
+		"dexterity": 75,
+		"constitution": 100,
+		"intelligence": 35,
+		"wisdom": 50,
+		"charisma": 97
+	},
+	"attack": {
+		"name": "*Nuzzles*",
+		"damage": 145
+  },
+	"special": {
+		"name": "Ur Ded lol ｡◕‿‿◕｡",
+		"description": "If the enemy has bewow 50% of theiw heawth awnd thiws hits cwiticaw they insta-kiww."
+	}
+}
