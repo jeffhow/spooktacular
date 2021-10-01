@@ -18,7 +18,7 @@
     "damage": 250
   },
   "special": {
-      "name": "Trap in tedious conversation",
+      "name": "Trap in mind-numbingly tedious conversation",
       "description": "Initiates another 30 minute conversation about the monster's novelty outlet cover collection",
       "effect": "wastes 30 minutes"
   }
