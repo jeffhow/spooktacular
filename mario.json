@@ -1,0 +1,25 @@
+{
+  "name": "Mario",
+  "stats": {
+    "hp": 100,
+    "ac": 70,
+    "speed": 400
+  },
+  "abilities": {
+    "strength": 5000,
+    "dexterity": 350,
+    "constitution": 350,
+    "intelligence": 20,
+    "wisdom": 20,
+    "charisma": 20
+  },
+  "attack": {
+    "name": "The Stomp",
+    "damage": 5000
+  },
+  "special": {
+      "name": "Fire Ring",
+      "description": "Shoots a fire ring of some sort at the enemy to set them on fire for 5 seconds. Does 1000 damage and everytime the character gets hurt by another thing the fire will lite up again for another 5 seconds.2nd to last boss.",
+      "effect": "Shoots fire ring out of ring. Does 1000 damage.every time the character gets hit by something they will start to catch on fire for 5 seconds."
+  }
+}
