@@ -1,0 +1,25 @@
+{
+	"name": "Patlu",
+	"stats": {
+		"hp": 30,
+		"ac": 40,
+		"speed": 70
+	},
+	"abilities": {
+		"strength": 10,
+		"dexterity": 20,
+		"constitution": 20,
+		"intelligence": 90,
+		"wisdom": 80,
+		"charisma": 60
+	},
+	"attack": {
+		"name": "idea",
+		"damage": 80
+	},
+	"special": {
+		"name": "Patlu-furfurinagar",
+		"description": "Patlu is a wise and clever man. He manages to save his friends even in the most difficult of problems.",
+		"effect": "He can even figure out John or other bad people's plans. He has long stretchable arms which he uses to grab John and his goons when they are running or for other purposes and he also grabs Motu."
+	}
+}
