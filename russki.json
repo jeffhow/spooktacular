@@ -1,7 +1,7 @@
 {
   "name": "Russki",
   "stats": {
-    "hp": 500,
+    "hp": 130,
     "ac": 16,
     "speed": 20
   },
@@ -15,7 +15,7 @@
   },
   "attack": {
     "name": "Vodka",
-    "damage": 75
+    "damage": 40,
   },
   "special": {
       "name": "Hard Bass",
