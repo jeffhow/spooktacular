@@ -1,0 +1,23 @@
+{
+  "name": "Werewolf",
+  "stats": {
+    "hp": 50,
+    "ac": 10,
+    "speed": 5,
+  },
+  "abilities": {
+    "strength": 8,
+    "dexterity": 12,
+    "constitution": 14,
+    "intelligence": 18,
+    "wisdom": 8,
+    "charisma": 12
+  },
+  "attack": {
+    "name": "revolver",
+    "damage": 50
+  },
+  "special": {
+      "name": "Raise Dead",
+      "description": "Harnesses the power of lightning to imbue a corpse with unholy life",
+      "effect": "Creates zombie with minor intelligence to defend caster.
