@@ -1,0 +1,25 @@
+{
+    "name": "Beta Male",
+    "stats": {
+        "hp": 10,
+        "ac": 10,
+        "speed": -3
+    },
+    "abilities": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 5,
+        "wisdom": 5,
+        "charisma": 80
+    },
+    "attack": {
+        "name": "Beta Hit",
+        "damage": -10
+    },
+    "special": {
+        "name": "Nice guys finish last",
+        "description": "He awsk uwu out onwy tuwu get insta wejected then stawts pwaying wuthwess  by mawmaw oso",
+        "effect": "He insta kills himself"
+    }
+}
