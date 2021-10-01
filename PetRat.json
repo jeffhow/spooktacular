@@ -11,7 +11,7 @@
     "constitution": 16,
     "intelligence": 20,
     "wisdom": 4,
-    "charisma": "no"
+    "charisma": 0
   },
   "attack": {
     "name": "RatKet Launchair",

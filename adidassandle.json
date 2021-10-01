@@ -8,7 +8,7 @@
   "abilities": {
     "strength": 43,
     "dexterity": 16,
-    "constitution": "infinite",
+    "constitution": 100000,
     "intelligence": 14,
     "wisdom": 12,
     "charisma": 8
