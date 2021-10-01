@@ -1,0 +1,25 @@
+{
+    "name": "Bad Copypasta",
+    "stats": {
+        "hp": 100,
+        "ac": 50,
+        "speed": 40
+    },
+    "abilities": {
+        "strength": 30,
+        "dexterity": 36,
+        "constitution": 42,
+        "intelligence": 75,
+        "wisdom": 80,
+        "charisma": 80
+    },
+    "attack": {
+        "name": "Wittle baby tail",
+        "damage": 92
+    },
+    "special": {
+        "name": "Pounce",
+        "description": "X3 Nuzzles, pounces on you, uwu you're so warm",
+        "effect": "Iwt pounces own uwu awnd uwu become a degenewate"
+    }
+}
