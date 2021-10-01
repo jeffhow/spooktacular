@@ -14,7 +14,7 @@
     "charisma": 8
   },
   "attack": {
-    "name": "Nap",
+    "name": "nap",
     "damage": 0
   },
   "special": {
