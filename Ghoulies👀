@@ -1,0 +1,25 @@
+{
+  "name": "Ghoulies",
+  "stats": {
+    "hp": 200,
+    "ac": 80,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 1000,
+    "dexterity": 100,
+    "constitution": 2000,
+    "intelligence": 75,
+    "wisdom": 50,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "teez",
+    "damage": 12456
+  },
+  "special": {
+      "name": "haywan",
+      "description": "ice laser",
+      "effect": "breaks anything"
+  }
+}
