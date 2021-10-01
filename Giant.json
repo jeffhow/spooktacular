@@ -1,0 +1,29 @@
+{
+  "name": "Giant",
+  "stats": {
+    "hp": 100,
+    "ac": 20,
+    "speed": 2
+  },
+  "abilities": {
+    "strength": 16,
+    "dexterity": 2,
+    "constitution": 14,
+    "intelligence": 2,
+    "wisdom": 2,
+    "charisma": 2
+  },
+  "attack": {
+    "name": "Club Smash",
+    "damage": 50
+  },
+  "special": {
+      "name": "Earthquake",
+      "description": "The giant stomps its feet and smashes it club on the ground, creating a massive earthquake",
+      "effect": "Players will lose their footing from all the shaking, causing a debuff to hit percentages. Will also deal 5-15 damage each turn for 15 turns."
+  }
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Se
