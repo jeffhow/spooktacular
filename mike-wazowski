@@ -1,0 +1,25 @@
+{
+  "name": "Mike wazowski",
+  "stats": {
+    "hp": 1000,
+    "ac": 1300,
+    "speed": 10000
+  },
+  "abilities": {
+    "strength": 500,
+    "dexterity": 125,
+    "constitution": 115,
+    "intelligence": 600,
+    "wisdom": 500,
+    "charisma": 550
+  },
+  "attack": {
+    "name": "louderator",
+    "damage": 2000
+  },
+  "special": {
+      "name": "The Ruash",
+      "description": "Runs at the speed of light to ether block or destroy the enemy's.Does upwards of 5000-10000 damage.Legendary drop.",
+      "effect": "Destroys everything in its path as attack. Blocks every attack except from the flash's attack"
+  }
+}
