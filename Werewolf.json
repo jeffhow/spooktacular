@@ -1,0 +1,23 @@
+{
+  "name": "Werewolf",
+  "stats": {
+    "hp": 60,
+    "ac": 20,
+    "speed": 8,
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 12,
+    "constitution": 14,
+    "intelligence": 20,
+    "wisdom": 10,
+    "charisma": 12
+  },
+  "attack": {
+    "name": "joey",
+    "damage": 80
+  },
+  "special": {
+      "name": "Nightly curse",
+      "description": "Light turns into darkness,mankind turns into a beast what trickery is this? or is this a curse?",
+      "effect": "eating humans bring its health up,starving brings its health low!.
