@@ -20,7 +20,7 @@
   "special": {
       "name": "Trap Fist",
       "description": "Arms made of iron will trap any enemy with the correct man behind it.",
-      "Effect": "alcatraz uses his massive hands to knock out and trap his enemies within a close range. This will also cause massive damage and stunt the enemy for 5 seconds"
+      "effect": "alcatraz uses his massive hands to knock out and trap his enemies within a close range. This will also cause massive damage and stunt the enemy for 5 seconds"
   }
      
 }

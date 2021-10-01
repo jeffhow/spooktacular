@@ -1,5 +1,5 @@
 {
-  "name": "Mr.Leboeuf",
+  "name": "Mr. Leboeuf",
   "stats": {
     "hp": 1000,
     "ac": 1000,
@@ -19,7 +19,7 @@
   },
   "special": {
       "name": "The Yout",
-      "description": "Yells at the top of his lungs to Kill anything in his pathway. He is the prime minister of the game and is always protected and never played with.Does 10 million damage and nothing could block it except the principal.",
-      "effect": "Obliterates everything in his way. dont get on his nerves."
+      "description": "Yells at the top of his lungs to kill anything in his path. He is the prime minister of the game and is always protected and never played with. Does 10 million damage and nothing could block it except the principal.",
+      "effect": "Obliterates everything in his way. Don't get on his nerves."
   }
 }

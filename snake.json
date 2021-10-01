@@ -1,0 +1,25 @@
+{
+  "name": "Snake",
+  "stats": {
+    "hp": 8,
+    "ac": 2,
+    "speed": 4
+  },
+  "abilities": {
+    "strength": 6,
+    "dexterity": 4,
+    "constitution": 6,
+    "intelligence": 2,
+    "wisdom": 1,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "rattle",
+    "damage": 6
+  },
+  "special": {
+      "name": "venomous bite",
+      "description": "The snake bites you",
+      "effect": "Causes damage over time poison"
+  }
+}
