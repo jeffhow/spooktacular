@@ -1,0 +1,25 @@
+{
+	"name": "Chupacabra",
+	"stats": {
+		"hp": 25,
+		"ac": 17,
+		"speed": 5
+	},
+	"abilities": {
+		"strength": 12,
+		"dexterity": 15,
+		"constitution": 12,
+		"intelligence": 5,
+		"wisdom": 8,
+		"charisma": 7
+	},
+	"attack": {
+		"name": "bite",
+		"damage": 10
+	},
+	"special": {
+		"name": "Exsanguinate",
+		"description": "The creatures long tongue shoots towards you!",
+		"effect": "Sheep are immdiately killed by this attack"
+	}
+}
