@@ -22,7 +22,7 @@
   },
   "special": {
     "name": "Psychatunic Vision",
-    "description": "Uses psychic abilities to rain down tuna from the sky, damaging whoever it hits."
+    "description": "Uses psychic abilities to rain down tuna from the sky, damaging whoever it hits.",
     "effect": "Rains down tuna on the enemies, hurting all of them."
    
   }
