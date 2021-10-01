@@ -1,0 +1,25 @@
+{
+    "name": "Vampire",
+    "stats": {
+      "hp": 100,
+      "ac": 3,
+      "speed": 2
+    },
+    "abilities": {
+      "strength": 5,
+      "dexterity": 34,
+      "constitution": 30,
+      "intelligence": 94,
+      "wisdom": 97
+    },
+    "attack": {
+      "name": "Bloody Punch",
+      "damage": 32
+    },
+    "special": {
+        "name": "Drinking Blood",
+        "description": "Drinks opponent blood",
+        "effect": "kill opponent if it have low health"
+    }
+  }
+  

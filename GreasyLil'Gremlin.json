@@ -1,0 +1,25 @@
+{
+  "name": "GreasyLil'Gremlin",
+  "stats": {
+    "hp": 35,
+    "ac": 7,
+    "speed": 17
+  },
+  "abilities": {
+    "strength": 5,
+    "dexterity": 18,
+    "constitution": 15,
+    "intelligence": -8,
+    "wisdom": 7,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "toss beans",
+    "damage": 20
+  },
+  "special": {
+    "name": "self care w/ essential oils",
+    "description": "The monster treats itself, staying at home and soaking in some rejuvenating essential oils",
+    "effect": "Heals 50 hp and aligns the monster's chakras."
+  }
+}

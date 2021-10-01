@@ -1,0 +1,25 @@
+{
+  "name": "Russki",
+  "stats": {
+    "hp": 130,
+    "ac": 16,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 18,
+    "dexterity": 14,
+    "constitution": 16,
+    "intelligence": 8,
+    "wisdom": 8,
+    "charisma": 14
+  },
+  "attack": {
+    "name": "Vodka",
+    "damage": 40,
+  },
+  "special": {
+      "name": "Hard Bass",
+      "description": "Blast music at maximun volume and bass for maximum damage",
+      "effect": "buffs caster and allies with 200% more speed and 100% more damage, while doing dot damage of 20 to the enemies for 30 mins."
+  }
+}

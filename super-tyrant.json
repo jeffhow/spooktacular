@@ -1,0 +1,25 @@
+{
+  "name": "Super Tyrant",
+  "stats": {
+    "hp": 210,
+    "ac": 80,
+    "speed": 9
+  },
+  "abilities": {
+    "strength": 18,
+    "dexterity": 19,
+    "constitution": 14,
+    "intelligence": 5,
+    "wisdom": 4,
+    "charisma": 4
+  },
+  "attack": {
+    "name": "Flaming Punch",
+    "damage": 90
+  },
+  "special": {
+      "name": "X Gon' Give it to Ya",
+      "description": "An all-out attack that causes several intense critical hits and has a chance of setting fire to what it hits.",
+      "effect": "Repeated attacks + a chance of fire damage"
+  }
+}
