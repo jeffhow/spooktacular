@@ -1,0 +1,25 @@
+{
+  "name": "Ghost",
+  "stats": {
+    "hp": 10,
+    "ac": 3,
+    "speed": 2
+  },
+  "abilities": {
+    "strength": 6,
+    "dexterity": 6,
+    "constitution": 6,
+    "intelligence": 6,
+    "wisdom": 6,
+    "charisma": 6
+  },
+  "attack": {
+    "name": "Boo",
+    "damage": 10
+  },
+  "special": {
+      "name": "Ghastly retribution",
+      "description": "the ghost scares you so bad you die instantly",
+      "effect": "instant death"
+  }
+}
