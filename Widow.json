@@ -1,0 +1,25 @@
+{
+  "name": "Widow",
+  "stats": {
+    "hp": 15,
+    "ac": 6,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 15,
+    "dexterity": 10 ,
+    "constitution":15 ,
+    "intelligence": 5,
+    "wisdom": 5,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "pitch",
+    "damage": 10
+  },
+  "special": {
+      "name": "speed pitch",
+      "description": "Speaks very fast in a high pitched voice.",
+      "effect": "inflicts 10 damage and lowers speed for 5 seconds "
+  }
+}
