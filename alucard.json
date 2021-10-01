@@ -1,5 +1,5 @@
 {
-  "name": "Alucard",
+  "name": "Alcucard",
   "stats": {
     "hp": 150,
     "ac": 25,
@@ -20,6 +20,6 @@
   "special": {
       "name": "Vampiric Presence",
       "description": "Calls upon a cursed power to teleport to any point within his field of vision",
-      "effect": "Instantly transports the caster to a new position and confuses the enemy"
+      "effect": "Instantly transports the caster to a new position and confuses the enemy."
   }
 }
