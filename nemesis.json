@@ -1,0 +1,25 @@
+{
+  "name": "Nemesis",
+  "stats": {
+    "hp": 160,
+    "ac": 99,
+    "speed": 7
+  },
+  "abilities": {
+    "strength": 15,
+    "dexterity": 12,
+    "constitution": 16,
+    "intelligence": 3,
+    "wisdom": 2,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "Punch",
+    "damage": 40
+  },
+  "special": {
+      "name": "Flamethrower Rain",
+      "description": "Aims a flamethrower towards the sky and rains fire around the target.",
+      "effect": "Fire rains from the sky and covers the battlefield. Lingers for a while."
+  }
+}
