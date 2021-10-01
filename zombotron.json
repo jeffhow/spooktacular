@@ -1,5 +1,5 @@
 {
-  "name": "Xayan",
+  "name": "zombotron",
   "stats": {
     "hp": 20,
     "ac": 1,
@@ -7,11 +7,11 @@
   },
   "abilities": {
     "strength": 1,
-    "dexterity": 1,
-    "constitution": 1,
-    "intelligence": 1,
-    "wisdom": 1,
-    "charisma": 1
+    "dexterity": 20,
+    "constitution": 10,
+    "intelligence": 10000,
+    "wisdom": 12,
+    "charisma": 0
   },
   "attack": {
     "name": "wastes your time",
