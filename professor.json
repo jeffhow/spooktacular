@@ -1,0 +1,25 @@
+{
+	"name": "Professor",
+	"stats": {
+		"hp": 90,
+		"ac": 90,
+		"speed": 50
+	},
+	"abilities": {
+		"strength": 90,
+		"dexterity": 90,
+		"constitution": 90,
+		"intelligence": 99,
+		"wisdom": 90,
+		"charisma": 90
+	},
+	"attack": {
+		"name": "Bella-ciao",
+		"damage": 80
+	},
+	"special": {
+		"name": "Give Me Freedom",
+		"description": "Becomes a Titan itself and can Destroy it's enemy's just like a mere ants.",
+		"effect": "It searches for the Freedom whenever someone wants to control him."
+	}
+}
