@@ -1,0 +1,25 @@
+{
+  "name": "Baby",
+  "stats": {
+    "hp": 20,
+    "ac": 10,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 20,
+    "constitution": 20,
+    "intelligence": 5,
+    "wisdom": 5,
+    "charisma": 15
+  },
+  "attack": {
+    "name": "bottle",
+    "damage": 5
+  },
+  "special": {
+      "name": "Playdate",
+      "description": "Throws all its toys at target",
+      "effect": "inpacts 5 damage and decreases speed by 5 for 10 seconds"
+  }
+}
