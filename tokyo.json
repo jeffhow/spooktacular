@@ -1,0 +1,25 @@
+{
+	"name": "Tokyo",
+	"stats": {
+		"hp": 70,
+		"ac": 70,
+		"speed": 80
+	},
+	"abilities": {
+		"strength": 70,
+		"dexterity": 70,
+		"constitution": 70,
+		"intelligence": 50,
+		"wisdom": 99,
+		"charisma": 99
+	},
+	"attack": {
+		"name": "shot",
+		"damage": 80
+	},
+	"special": {
+		"name": "Give Me Freedom",
+		"description": "Becomes a Titan itself and can Destroy it's enemy's.",
+		"effect": "It searches for the Freedom whenever someone wants to control him."
+	}
+}
