@@ -1,0 +1,29 @@
+{
+  "name": "Goblin Bomber Crew",
+  "stats": {
+    "hp": "35",
+    "ac": 5,
+    "speed": 8
+  },
+  "abilities": {
+    "strength": 12,
+    "dexterity": 12,
+    "constitution": 5,
+    "intelligence": 1,
+    "wisdom": 1,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "BOOM!",
+    "damage": 30
+  },
+  "special": {
+      "name": "Kamikaze",
+      "description": "The goblins charge at you with lit explosives",
+      "effect": "deals 50 damage to the party, kills the Goblin Bomber Crew."
+  }
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Se
