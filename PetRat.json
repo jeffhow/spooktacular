@@ -11,15 +11,15 @@
     "constitution": 16,
     "intelligence": 20,
     "wisdom": 4,
-    "charisma": "no",
+    "charisma": "no"
   },
   "attack": {
     "name": "RatKet Launchair",
-    "damage": 142,
+    "damage": 142
   },
   "special": {
       "name": "Cheesey heal",
       "description": "Eat cheese to heal yourself or allies",
-      "effect": "Heals the consumer for 300hp",
+      "effect": "Heals the consumer for 300hp"
   }
 }
