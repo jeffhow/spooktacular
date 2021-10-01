@@ -1,0 +1,27 @@
+{
+  "name": "Kobold"
+  "stats": {
+    "hp": 10.
+    "ac": 2,
+    "speed": 10,
+},
+"abilities": {
+  "strength": 6,
+  "dexterity": 8,
+    "constitution": 6,
+    "intelligence": 2,
+    "wisdom": 2,
+    "charisma": 4
+  },
+  "attack": {
+    "name": "sword poke",
+    "damage": 5,
+    
+  },
+  "special": {
+      "name": "Summon Ally",
+      "description": "The monster feels overwhelmed and calls its buddies to aid it",
+      "effect": "Summons 1-3 more Kobolds to join the fight."
+  }
+}
+  
