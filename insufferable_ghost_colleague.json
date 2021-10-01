@@ -1,5 +1,5 @@
 {
-  "name": "InsufferableGhostColleague",
+  "name": "Insufferable Ghost Colleague",
   "stats": {
     "hp": 30,
     "ac": 13,
@@ -14,11 +14,11 @@
     "charisma": 8
   },
   "attack": {
-    "name": "Shuffle papers unnecessarily loudly",
+    "name": "Shuffle Papers Unnecessarily Loudly",
     "damage": 250
   },
   "special": {
-      "name": "Trap in mind-numbingly tedious conversation",
+      "name": "Trap In Mind-Numbingly Tedious Conversation",
       "description": "Initiates another 30 minute conversation about the monster's novelty outlet cover collection",
       "effect": "wastes 30 minutes"
   }
