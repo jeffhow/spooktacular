@@ -19,7 +19,7 @@
   },
   "special": {
       "name": "Diarrhea Combustion",
-      "description": "The Taco Bell fumes burn the enimies",
+      "description": "The Taco Bell fumes burn the enemies",
       "effect": "Dies of dysentery"
   }
 }
