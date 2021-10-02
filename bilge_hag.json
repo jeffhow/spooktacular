@@ -1,0 +1,26 @@
+{
+  "name": "Bilge Hag",
+  "stats": {
+    "hp": 71,
+    "ac": 23,
+    "speed": 18
+  },
+  "abilities": {
+    "strength": 55,
+    "dexterity": 21,
+    "constitution": 41,
+    "intelligence": 29,
+    "wisdom": 30,
+    "charisma": 22
+  },
+  "attack": {
+    "name": "Claw Attack",
+    "damage": 80
+  },
+
+  "special": {
+      "name": "Spit of the Venom",
+      "description": "Turns a Man into Crow when spat on",
+      "effect": "Turning humans into crow brings back his energy"
+  }
+}

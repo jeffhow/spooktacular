@@ -1,0 +1,25 @@
+{
+  "name": "serpentis",
+  "stats": {
+    "hp": 100,
+    "ac": 50,
+    "speed": 90
+  },
+  "abilities": {
+    "strength": 90,
+    "dexterity": 90,
+    "constitution": 50,
+    "intelligence": 50,
+    "wisdom": 5,
+    "charisma": 5
+  },
+  "attack": {
+    "name": "venom shot",
+    "damage": 100
+  },
+  "special": {
+      "name": "paralysis",
+      "description": "leaves the enemy paralyzed for 10 seconds and erases all the buffs",
+      "effect": "100"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "GreasyLil'Gremlin",
+  "name": "Greasy Lil' Gremlin",
   "stats": {
     "hp": 35,
     "ac": 7,
@@ -18,7 +18,7 @@
     "damage": 20
   },
   "special": {
-    "name": "self care w/ essential oils",
+    "name": "Self Care w/ Essential Oils",
     "description": "The monster treats itself, staying at home and soaking in some rejuvenating essential oils",
     "effect": "Heals 50 hp and aligns the monster's chakras."
   }

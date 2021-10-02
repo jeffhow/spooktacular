@@ -1,0 +1,25 @@
+{
+	"name": "Thanos",
+	"stats": {
+		"hp": 700,
+		"ac": 25,
+		"speed": 35
+	},
+	"abilities": {
+		"strength": 600,
+		"dexterity": 100,
+		"constitution": 46,
+		"intelligence": 300,
+		"wisdom": 400,
+		"charisma": 5
+	},
+	"attack": {
+		"name": "thanos snap",
+		"damage": 1000
+	},
+	"special": {
+		"name": "Thanos Snap",
+		"description": "Through bionic implementation and long hours of meditation, Thanos augmented his Eternal strengths and powers so that his abilities surpassed those of all other Titanian Eternals. He's an eternal with a genetic condition that makes him even more powerful than normal.",
+		"effect": "Half people gone by snap"
+	}
+}

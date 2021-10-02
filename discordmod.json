@@ -1,0 +1,25 @@
+{
+  "name": "Discord Moderator",
+  "stats": {
+    "hp": 10,
+    "ac": 2,
+    "speed": 1
+  },
+  "abilities": {
+    "strength": 2,
+    "dexterity": 1,
+    "constitution": 1,
+    "intelligence": 0,
+    "wisdom": 1,
+    "charisma": -3
+  },
+  "attack": {
+    "name": "Mute",
+    "damage": 20
+  },
+  "special": {
+      "name": "Kitten",
+      "description": "With his moderator power he will ban you causing you to be in eternal shame",
+      "effect": "causes your character to be inmobile for 15 seconds >:)"
+  }
+}

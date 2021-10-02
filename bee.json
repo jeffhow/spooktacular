@@ -1,0 +1,25 @@
+{
+  "name": "Bee",
+  "stats": {
+    "hp": 2,
+    "ac": 0,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 2,
+    "dexterity": 12,
+    "constitution": 2,
+    "intelligence": 6,
+    "wisdom": 0,
+    "charisma": 2000
+  },
+  "attack": {
+    "name": "sting",
+    "damage": 5
+  },
+  "special": {
+      "name": "Ya like jazz?",
+      "description": "The bee reads the entire bee movie script, putting everyone in the party to sleep.",
+      "effect": "puts the party to sleep."
+  }
+}

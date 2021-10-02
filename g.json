@@ -1,0 +1,25 @@
+{
+  "name": "William G. Birkin",
+  "stats": {
+    "hp": 200,
+    "ac": 10,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 14,
+    "dexterity": 12,
+    "constitution": 14,
+    "intelligence": 18,
+    "wisdom": 8,
+    "charisma": 12
+  },
+  "attack": {
+    "name": "Pipe Swing",
+    "damage": 50
+  },
+  "special": {
+      "name": "Mutate",
+      "description": "Mutate into a superior life form.",
+      "effect": "Increases Health 2x"
+  }
+}

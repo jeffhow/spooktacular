@@ -1,0 +1,25 @@
+{
+  "name": "Giga Chad",
+  "stats": {
+    "hp": 300,
+    "ac": 55,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 300,
+    "dexterity": 85,
+    "constitution": 42,
+    "intelligence": 45,
+    "wisdom": 100,
+    "charisma": 100
+  },
+  "attack": {
+    "name": "Chin Smash",
+    "damage": 500
+  },
+  "special": {
+      "name": "Handsome Stare",
+      "description": "His stare makes the enemies want to end the battle",
+      "effect": "turns you to stone for 25 seconds"
+  }
+}

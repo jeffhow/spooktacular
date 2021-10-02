@@ -1,0 +1,25 @@
+{
+  "name": "Mr. Leboeuf",
+  "stats": {
+    "hp": 1000,
+    "ac": 1000,
+    "speed": 1000
+  },
+  "abilities": {
+    "strength": 20000,
+    "dexterity": 2000,
+    "constitution": 10000,
+    "intelligence": 100000,
+    "wisdom": 10000,
+    "charisma": 1000
+  },
+  "attack": {
+    "name": "The death stare",
+    "damage": 1000000
+  },
+  "special": {
+      "name": "The Yout",
+      "description": "Yells at the top of his lungs to kill anything in his path. He is the prime minister of the game and is always protected and never played with. Does 10 million damage and nothing could block it except the principal.",
+      "effect": "Obliterates everything in his way. Don't get on his nerves."
+  }
+}

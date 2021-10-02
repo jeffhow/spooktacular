@@ -1,7 +1,7 @@
 {
   "name": "slenderman",
   "stats": {
-    "hp": 100
+    "hp": 100,
     "ac": 80,
     "speed": 20,
   },
@@ -21,3 +21,5 @@
       "name": "deadmans woods",
       "description": "beware of the creature in these woods it's like a game of hide and seek but this time the monster finds u",
       "effect": "Run and hide cast a spell to shadder the creature with ur wisdom."
+  }
+}

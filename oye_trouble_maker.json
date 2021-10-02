@@ -1,0 +1,25 @@
+{
+"name": "Oye Trouble Maker",
+"stats": {
+"hp": 10,
+"ac": 2,
+"speed": 8
+},
+"abilities": {
+"strength": 5,
+"dexterity": 6,
+"constitution": 3,
+"intelligence": 8,
+"wisdom": 10,
+"charisma": 16
+},
+"attack": {
+"name": "stare",
+"damage": 6
+},
+"special": {
+"name": "God is still warroir",
+"description": "Brown, short hair almost fully covers a fresh, gloomy face. Darting green eyes, set charmingly within their sockets, watch slowly over the children they've felt disconnected from for so long.",
+"effect": "Causes extreme debuffs to team morale and sanity, may cause weaker players heads to explode."
+}
+}

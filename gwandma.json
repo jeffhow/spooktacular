@@ -1,0 +1,25 @@
+{
+	"name": "gWaNdMa",
+	"stats": {
+		"hp": 700,
+		"ac": 25,
+		"speed": 35
+	},
+	"abilities": {
+		"strength": 600,
+		"dexterity": 100,
+		"constitution": 46,
+		"intelligence": 300,
+		"wisdom": 400,
+		"charisma": 5
+	},
+	"attack": {
+		"name": "Sandal Blaster Beam",
+		"damage": 250
+	},
+	"special": {
+		"name": "Time Out Explosion",
+		"description": "Anyone who gets caught in her line of sight, you get stuck in a box and she has the chance to beat you up with a sandal and cause collosal damage",
+		"effect": "Stuns foe and gives attacker the chance to attack"
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "name": "zombotron",
+  "stats": {
+    "hp": 20,
+    "ac": 1,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 1,
+    "dexterity": 20,
+    "constitution": 10,
+    "intelligence": 10000,
+    "wisdom": 12,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "wastes your time",
+    "damage": 100
+  },
+  "special": {
+      "name": "Garbage Pull Requests",
+      "description": "Let's spelling mistakes through just to prove a stupid point.",
+      "effect": "Negatively impacts GitHub repo."
+  }
+}
