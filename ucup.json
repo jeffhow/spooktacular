@@ -1,0 +1,25 @@
+{
+  "name": "Ucup",
+  "stats": {
+    "hp": 86,
+    "ac": 80,
+    "speed": 80
+  },
+  "abilities": {
+    "strength": 85,
+    "dexterity": 70,
+    "constitution": 70,
+    "intelligence": 90,
+    "wisdom": 80,
+    "charisma": 88
+  },
+  "attack": {
+    "name": "Shot",
+    "damage": 84
+  },
+  "special": {
+    "name": "Foot aim'",
+    "description": "forward targeting the opponent's leg and trample it until it swells",
+    "effect": "special effects of this movement the enemy cannot walk."
+  }
+}
