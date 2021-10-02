@@ -1,0 +1,25 @@
+{
+	"name": "Easy-Lily",
+	"stats": {
+		"hp": 30,
+		"ac": 44,
+		"speed": 40
+	},
+	"abilities": {
+		"strength": 5,
+		"dexterity": 20,
+		"constitution": 40,
+		"intelligence": 30,
+		"wisdom": 10,
+		"charisma": 95
+	},
+	"attack": {
+		"name": "cute-wink",
+		"damage": 50
+	},
+	"special": {
+		"name": "flying-kiss",
+		"description": "Easy-Lily sends a flying kiss to the opponent in order to lure.",
+		"effect": "Opponent gets distracted and it gives a chance to her teammates to attack."
+	}
+}
