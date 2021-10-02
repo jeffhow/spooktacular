@@ -18,8 +18,8 @@
     "damage": 100
   },
   "special": {
-      "name": "paralysis",
-      "description": "leaves the enemy paralyzed for 10 seconds and erases all the buffs",
-      "effect": "100"
+    "name": "paralysis",
+    "description": "leaves the enemy paralyzed for 10 seconds and erases all the buffs",
+    "effect": "100"
   }
 }
