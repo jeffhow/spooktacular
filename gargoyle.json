@@ -1,0 +1,25 @@
+{
+	"name": "Gargoyle",
+	"stats": {
+		"hp": 50,
+		"ac": 10,
+		"speed": 20
+	},
+	"abilities": {
+		"strength": 47,
+		"dexterity": 30,
+		"constitution": 6,
+		"intelligence": 16,
+		"wisdom": 30,
+		"charisma": 7
+	},
+	"attack": {
+		"name": "Goyle blast",
+		"damage": 38
+	},
+	"special": {
+		"name": "Humoungous hunger",
+		"description": "Swallow EVERYTHING in the way. EVERYTHING.",
+		"effect": "spreads terror and finishes the enemy"
+	}
+}
