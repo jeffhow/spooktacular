@@ -1,0 +1,25 @@
+{
+	"name": "Anaconda",
+	"stats": {
+		"hp": 800,
+		"ac": 50,
+		"speed": 500
+	},
+	"abilities": {
+		"strength": 600,
+		"dexterity": 200,
+		"constitution": 50,
+		"intelligence": 100,
+		"wisdom": 100,
+		"charisma": 11
+	},
+	"attack": {
+		"name": "Anaconda Byteing",
+		"damage": 500
+	},
+	"special": {
+		"name": "Deadly Anaconda Byteing",
+		"description": "It is 10 times deadlier then Anaconda Byteing.It's Very poisonous",
+		"effect": "Anaconda uses it's two sharp teeths to byte a person and spread posion to the whole body."
+	}
+}
