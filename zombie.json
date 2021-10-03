@@ -1,0 +1,26 @@
+{
+    "name": "zombie",
+    "stats": {
+      "hp": 20,
+      "ac": 10,
+      "speed": 20
+    },
+    "abilities": {
+      "strength": 85,
+      "dexterity": 12,
+      "constitution": 22,
+      "intelligence": 14,
+      "wisdom": 41,
+      "charisma": 4
+    },
+    "attack": {
+      "name": "eat human",
+      "damage": 75
+    },
+    "special": {
+        "name": "without their souls",
+        "description": "a will-less and speechless human capable only of automatic movement who is held to have died and been supernaturally reanimated",
+        "effect": "Zombie is derived from the Louisiana Creole or Haitian Creole word zonbi. Although the word first appeared in English in the 1870s, it wasn't the subject of much interest among"
+    }
+  }
+ 
