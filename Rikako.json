@@ -1,0 +1,25 @@
+{
+	"name": "Rikako",
+	"stats": {
+		"hp": 90,
+		"ac": 10,
+		"speed": 8
+	},
+	"abilities": {
+		"strength": 95,
+		"dexterity": 20,
+		"constitution": 15,
+		"intelligence": 10,
+		"wisdom": 5,
+		"charisma": 2
+	},
+	"attack": {
+		"name": "rocket kick",
+		"damage": 50
+	},
+	"special": {
+		"name": "bazooka punch",
+		"description": "rikako's hand detatches and flies towards enemy and explodes while hand regrows.",
+		"effect": "the opponent has 1% hp left."
+	}
+}
