@@ -1,0 +1,25 @@
+{
+  "name": "iron man without his suit of armor",
+  "stats": {
+    "hp": 5,
+    "ac": 70,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 5,
+    "constitution": 5,
+    "intelligence": 300000000000000000000000,
+    "wisdom": 100,
+    "charisma": 10000000000000000000000
+  },
+  "attack": {
+    "name": "jarvis",
+    "damage": 3000
+  },
+  "special": {
+      "name": "billions of dollars",
+      "description": "buys whatever he wants because he's rich .",
+      "effect": "everyone becomes haters"
+  }
+}
