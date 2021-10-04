@@ -1,0 +1,25 @@
+{
+  "name": "john cna the 3nd",
+  "stats": {
+    "hp": 100,
+    "ac": 1000,
+    "speed": 9999
+  },
+  "abilities": {
+    "strength": 10000000,
+    "dexterity": 12345,
+    "constitution": 9999,
+    "intelligence": 666,
+    "wisdom": 10000,
+    "charisma": 6900
+  },
+  "attack": {
+    "name": "punch",
+    "damage": 760
+  },
+  "special": {
+      "name": "u cnt se me",
+      "description": "blindness for life",
+      "effect": "blindness"
+  }
+}
