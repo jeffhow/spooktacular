@@ -1,0 +1,25 @@
+{
+  "name": "Freddy Krueger",
+  "stats": {
+    "hp": 1000,
+    "ac": 500,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 100,
+    "dexterity": 0,
+    "constitution": 5,
+    "intelligence": 100,
+    "wisdom": 0,
+    "charisma": 130
+  },
+  "attack": {
+    "name": "Nightmare",
+    "damage": 100
+  },
+  "special": {
+      "name": "Slash",
+      "description": "He slashes the enemy using the claws on his hand, the attack is very lethal",
+      "effect": "500"
+  }
+}
