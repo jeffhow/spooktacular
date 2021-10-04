@@ -1,0 +1,25 @@
+{
+  "name": "Evangelion_Pirate",
+  "stats": {
+    "hp": 560,
+    "ac": 200,
+    "speed": 540
+  },
+  "abilities": {
+    "strength": 59,
+    "dexterity": 240,
+    "constitution": 125,
+    "intelligence": 901,
+    "wisdom": 950,
+    "charisma": 999
+  },
+  "attack": {
+    "name": "Golden_Hook",
+    "damage": 420
+  },
+  "special": {
+      "name": "Heavenly_Hook",
+      "description": "Pulls the opponent's soul to hell",
+      "effect": "HP reduces by half every 5 seconds"
+  }
+}
