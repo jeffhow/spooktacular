@@ -1,0 +1,24 @@
+{
+  "name": "Crocodile",
+  "stats": {
+    "hp": 5000,
+    "ac": 10000,
+    "speed": 4000
+  },
+  "abilities": {
+    "strength": 5000,
+    "dexterity": 4000,
+    "constitution": 3000,
+    "intelligence": 10000,
+    "wisdom": 7000,
+    "charisma": 90000
+  },
+  "attack": {
+    "name": "Sables",
+    "damage": 3000
+  },
+  "special": {
+      "name": "Desert Encierro",
+      "description": " Crocodile grabs someone with his right hand, then slowly or quickly drains the moisture from their body with his dehydration ability. This leaves them in a withered and seemingly flesh-less state."
+  }
+}
