@@ -1,0 +1,25 @@
+{
+  "name": "Broly",
+  "stats": {
+    "hp": 100,
+    "ac": 45,
+    "speed" 100: 
+  },
+  "abilities": {
+    "strength": 100,
+    "dexterity": 80,
+    "constitution": 200,
+    "intelligence": 30,
+    "wisdom": 10,
+    "charisma": 20
+  },
+  "attack": {
+    "name": "Kamehameha",
+    "damage": 200
+  },
+  "special": {
+      "name": "Legendary Super Saiyan",
+      "description": "A transformation that increases the casters speed, strength, and resilience",
+      "effect": "Increases strength of caster by 550%, and speed of the caster by 200"
+  }
+}
