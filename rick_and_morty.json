@@ -1,0 +1,25 @@
+{
+  "name": "rick and morty",
+  "stats": {
+    "hp": 5000000,
+    "ac": 70,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 1000000,
+    "dexterity": 5000,
+    "constitution": 500,
+    "intelligence": 9999999999999999999999999999999999999999999999999999999999999999999999999999999999,
+    "wisdom": 999,
+    "charisma": 700
+  },
+  "attack": {
+    "name": "portal gun punch",
+    "damage": 3000
+  },
+  "special": {
+      "name": "multi-dimensional punch barrage",
+      "description": "travels through many dismensions to land a single punch",
+      "effect": "turns to cheeto dust"
+  }
+}
