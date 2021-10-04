@@ -1,0 +1,25 @@
+{
+  "name": "dracula",
+  "stats": {
+    "hp": 9999991,
+    "ac": 0,
+    "speed": 9999995
+  },
+  "abilities": {
+    "strength": 10004,
+    "dexterity": 10009,
+    "constitution": 5008,
+    "intelligence": 70008,
+    "wisdom": 1002,
+    "charisma": 1005
+  },
+  "attack": {
+    "name": "drain",
+    "damage": 106
+  },
+  "special": {
+      "name": "endless-night",
+      "description": "this attack creates a darkness that drains all the enemies' hp during the next 1 minute. Damage multiplies on the last 10 seconds",
+      "effect": "10009"
+  }
+}
