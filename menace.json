@@ -1,0 +1,25 @@
+{
+  "name": "menace",
+  "stats": {
+    "hp": 900000000000,
+    "ac": 9000000000,
+    "speed": 900000000
+  },
+  "abilities": {
+    "strength": 900000000,
+    "dexterity": 420690000,
+    "constitution": 960000,
+    "intelligence": 89000000,
+    "wisdom": 300000000000000,
+    "charisma": 900000000000
+  },
+  "attack": {
+    "name": "milk blast",
+    "damage": 10000000
+  },
+  "special": {
+      "name": "menace",
+      "description": "it is a state where the user can't take any damage as well as intimidate the enemy attacks only slow Menace"
+      "effect": "invincability
+  }
+}
