@@ -1,0 +1,25 @@
+{
+	"name": "Zelcres",
+	"stats": {
+		"hp": 400,
+		"ac": 200,
+		"speed": 1000
+	},
+	"abilities": {
+		"strength": 950,
+		"dexterity": 30,
+		"constitution": 400,
+		"intelligence": 1000,
+		"wisdom": 4000,
+		"charisma": 0
+	},
+	"attack": {
+		"name": "SOUL SLASH",
+		"damage": 50
+	},
+	"special": {
+		"name": "SOUL EATER",
+		"description": "He will use his scythe to collect the the souls of those that he have kill.",
+		"effect": "He will gain health until it's full, but a serious movement will deactivate. "
+	}
+}
