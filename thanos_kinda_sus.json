@@ -1,0 +1,25 @@
+{
+  "name": "Thanos",
+  "stats": {
+    "hp": 5000000,
+    "ac": 70,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 1000000,
+    "dexterity": 5000,
+    "constitution": 500,
+    "intelligence": 30,
+    "wisdom": 999,
+    "charisma": 700
+  },
+  "attack": {
+    "name": "power stone blast",
+    "damage": 3000
+  },
+  "special": {
+      "name": "should've aimed for the head",
+      "description": "snaps his fingers because didn't killed him when he had the chance, what an idiot",
+      "effect": "everyone turns to cheeto dust"
+  }
+}
