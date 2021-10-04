@@ -1,0 +1,42 @@
+{
+  
+  "name": "Jason",
+  "stats": {
+    "hp": 1000,
+    "ac": 10,
+    "speed": 25,
+    
+  },
+  "abilities": {
+    "strength": 300,
+    "dexteritiy": 12,
+    "constitution": 25,
+    "intelligence": 300,
+    "wisdom": 13,
+    "charisma": 50
+    
+  },
+  
+  "attack": {
+    
+   "name": "gut ripper",
+    "damage":10000000000000000
+    
+    
+  },
+  
+  "special":{
+    
+    "name": "morph",
+    "description": "Jason is able to Morph, around the map",
+    "effect": "jason can reach his object quickly if it attempts to run."
+  }
+  
+}
+    
+  
+  
+  
+  
+  
+  }
