@@ -1,0 +1,24 @@
+{
+  "name": "Donquixote Doflamingo",
+  "stats": {
+    "hp": 7000,
+    "ac": 6000,
+    "speed": 7000
+  },
+  "abilities": {
+    "strength": 9000,
+    "dexterity": 5000,
+    "constitution": 9000,
+    "intelligence": 10000,
+    "wisdom": 6000,
+    "charisma": 8500
+  },
+  "attack": {
+    "name": "String Bullet",
+    "damage": 1500
+  },
+  "special": {
+      "name": "Black Knight",
+      "description": "Makes a clone of himself made out of strings to fight in his stead. The clone is weaker but can be reconstructed very easily."
+  }
+}
