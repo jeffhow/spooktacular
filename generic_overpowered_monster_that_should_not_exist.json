@@ -1,0 +1,25 @@
+{
+  "name": "Generic Overpowered Monster That Should Not Exist",
+  "stats": {
+    "hp": 999999999999999999999,
+    "ac": 999999999999999999999,
+    "speed": 999999999999999999999
+  },
+  "abilities": {
+    "strength": 999999999999999999999,
+    "dexterity": 999999999999999999999,
+    "constitution": 999999999999999999999,
+    "intelligence": 999999999999999999999,
+    "wisdom": 999999999999999999999,
+    "charisma": 999999999999999999999
+  },
+  "attack": {
+    "name": "Generic Overpowered Attack",
+    "damage": 999999999999999999999
+  },
+  "special": {
+      "name": "Generic Overpowered Special",
+      "description": "When you are not overpowered enough, become way too overpowered.",
+      "effect": "Makes people not want to play the game"
+  }
+}
