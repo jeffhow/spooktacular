@@ -1,0 +1,25 @@
+{
+  "name": "Bully Maguire",
+  "stats": {
+    "hp": 100,
+    "ac": 15,
+    "speed": 200
+  },
+  "abilities": {
+    "strength": 180,
+    "dexterity": 150,
+    "constitution": 90,
+    "intelligence": 70,
+    "wisdom": 80,
+    "charisma": 1000
+  ,}
+  "attack": {
+    "name": "I'm gonna put some dirt in your eye",
+    "damage": 150
+  },
+  "special": {
+      "name": "Drive that Funky Soul",
+      "description": "proceeds to dance with extreme style and grace",
+      "effect": "stuns all enemies within a 15 meter radius for 10 seconds"
+  }
+}
