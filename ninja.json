@@ -1,0 +1,25 @@
+{
+  "name": "Ninja",
+  "stats": {
+    "hp": 200,
+    "ac": 30,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 35,
+    "dexterity": 50,
+    "constitution": 80,
+    "intelligence": 1,
+    "wisdom": 1000000,
+    "charisma": 500
+  },
+  "attack": {
+    "name": "360 no-scoped",
+    "damage": 312
+  },
+  "special": {
+      "name": "do not bully people",
+      "description": "become a hypocrite and bully people and emolish them",
+      "effect": "makes kids cry and rage quit"
+  }
+}
