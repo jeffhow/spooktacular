@@ -19,7 +19,7 @@
   },
   "special": {
       "name": null,
-      "description": "Force developers to account for null for every property affected by this monster.",
+      "description": "Force developers to account for null for every property affected by this monster. Does not come up during testing.",
       "effect": "NullReferenceException"
   }
 }
