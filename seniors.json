@@ -1,0 +1,25 @@
+{
+  "name": "Senior",
+  "stats": {
+    "hp": 1000,
+    "ac": 500,
+    "speed": 50
+  },
+  "abilities": {
+    "strength": 100,
+    "dexterity": 0,
+    "constitution": 10,
+    "intelligence": 20,
+    "wisdom": 400,
+    "charisma": 15
+  },
+  "attack": {
+    "name": "Loud",
+    "damage": 400
+  },
+  "special": {
+      "name": "Creeping",
+      "description": "They suprise attack you due to their sneakiness and experience",
+      "effect": "450"
+  }
+}
