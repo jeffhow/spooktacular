@@ -1,0 +1,24 @@
+{
+  "name": "Gersi Dura",
+  "stats": {
+    "hp": 5,
+    "ac": 0,
+    "speed": 2
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 100,
+    "constitution": 5,
+    "intelligence": 57,
+    "wisdom": 1000,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "Kick",
+    "damage": 23
+  },
+  "special" : {
+    "name": "Grub in the bathroom",
+    "description": "Heals the user for 1000 health"
+  }
+}

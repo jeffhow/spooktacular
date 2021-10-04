@@ -1,0 +1,25 @@
+{
+  "name": "Dan",
+  "stats": {
+    "hp": 50,
+    "ac": 10000,
+    "speed": 0
+  },
+  "abilities": {
+    "strength": 10,
+    "dexterity": 0,
+    "constitution": 1,
+    "intelligence": 50,
+    "wisdom": 1,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "Yell",
+    "damage": 500
+  },
+  "special" : {
+    "name": "ID",
+    "description": "Freezes the target in place and drains their health rapidly until they die or take our their ID.",
+    "effect": "Health Drain" 
+  }
+}
