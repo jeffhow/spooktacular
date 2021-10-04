@@ -1,0 +1,25 @@
+{
+  "name": "ape",
+  "stats": {
+    "hp": 106,
+    "ac": 108,
+    "speed": 104
+  },
+  "abilities": {
+    "strength": 105,
+    "dexterity": 60,
+    "constitution": 50,
+    "intelligence": 50,
+    "wisdom": 50,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "power punch",
+    "damage": 90
+  },
+  "special": {
+      "name": "earthquake",
+      "description": "hits the ground with a powerful bunch and deals a powerful damage and stuns the enemy",
+      "effect": "90"
+  }
+}
