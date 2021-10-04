@@ -1,0 +1,25 @@
+{
+  "name": "Pharaoh",
+  "stats": {
+    "hp": 200,
+    "ac": 30,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 44,
+    "dexterity": 10,
+    "constitution": 10,
+    "intelligence": 90,
+    "wisdom": 100,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "Sand Claw",
+    "damage": 37
+  },
+  "special": {
+      "name": "Wrath of the Sun God Ra",
+      "description": "Once the move is fully charged your health will drain to 1% of your max hp",
+      "effect": "After a 15 second charge up a large hot fireball will be launched and drain your hp to 1% of your max hp."
+  }
+}
