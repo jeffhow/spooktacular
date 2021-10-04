@@ -1,0 +1,25 @@
+{
+  "name": "king henry the eighth",
+  "stats": {
+    "hp": 10000000000000000,
+    "ac": 99999999999999999,
+    "speed": 1
+  },
+  "abilities": {
+    "strength": 9999999999999999999999999999,
+    "dexterity": 1,
+    "constitution": 0,
+    "intelligence": 1,
+    "wisdom": 0,
+    "charisma": 99999999999
+  },
+  "attack": {
+    "name": "divorce",
+    "damage": 999999999999
+  },
+  "special": {
+      "name": "behead",
+      "description": "youve wronged the king, and now youve been sentenced to death",
+      "effect": "instant death"
+  }
+}
