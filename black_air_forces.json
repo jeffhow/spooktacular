@@ -1,0 +1,25 @@
+{
+  "name": "black air forces",
+  "stats": {
+    "hp": 111111111111111111111111111111,
+    "ac": 999999999999999,
+    "speed": 11111110000000000000000000000000000
+  },
+  "abilities": {
+    "strength": 99999999999999999999999999,
+    "dexterity": 899999999999999999999999999,
+    "constitution": 1000,
+    "intelligence": 78,
+    "wisdom": 56,
+    "charisma": 10000000000000
+  },
+  "attack": {
+    "name": "stomp",
+    "damage": 1000000000000000000
+  },
+  "special": {
+      "name": "stomp part two",
+      "description": "this hurts more than the last one",
+      "effect": "death"
+  }
+}
