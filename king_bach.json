@@ -1,0 +1,25 @@
+{
+  "name": "King Bach",
+  "stats": {
+    "hp": 50,
+    "ac": 8,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 40,
+    "dexterity": 15,
+    "constitution": 40,
+    "intelligence": 150,
+    "wisdom": 100,
+    "charisma": 250
+  },
+  "attack": {
+    "name": "that backflip doe",
+    "damage": 45
+  },
+  "special": {
+      "name": "Comically large spoon",
+      "description": "So it starts out with two individuals, King Bach, and his friend. While at his friends house, King Bach feels a bit famished. So, naturally, he asks his friend if he can have some ice cream. His friend retorts back, Only a spoonful. And then, out of nowhere, King Bach pulls out a Comically large spoon, Now this does not make sense because when King Bach's friend says only a spoonful, he means it in a way to where he can still eat some later but the spoon is able to pick up the whole pint leaving King Bachs friend nothing to eat but his words. After this, more questions rise up. How would he carry around such a large spoon and How would such a loophole be able to be exploited. Does such a large spoon even count as a spoonful? It's just not fair",
+      "effect": "King Bach uses his spoon to steal 5 items from your inventory"
+  }
+}
