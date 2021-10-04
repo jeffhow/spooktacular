@@ -1,0 +1,25 @@
+{
+  "name": "ed sheeran",
+  "stats": {
+    "hp": 100,
+    "ac": 69,
+    "speed": 87
+  },
+  "abilities": {
+    "strength": 10000,
+    "dexterity": 7800,
+    "constitution": 9111,
+    "intelligence": 10000000000000,
+    "wisdom": 100000000000000000,
+    "charisma": 90000000000000000000000
+  },
+  "attack": {
+    "name": "orange justice",
+    "damage": 1
+  },
+  "special": {
+      "name": "ankle breaker",
+      "description": "makes your legs not work like they used to before",
+      "effect": "paralyzed"
+  }
+}
