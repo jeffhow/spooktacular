@@ -1,0 +1,25 @@
+{
+  "name": "Maximus",
+  "stats": {
+    "hp": 120,
+    "ac": 90,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 45,
+    "dexterity": 60,
+    "constitution": 0,
+    "intelligence": 20,
+    "wisdom": 10,
+    "charisma": 30
+  },
+  "attack": {
+    "name": "Mega Chomp",
+    "damage": 27
+  },
+  "special": {
+      "name": "Devour",
+      "description": "Insta kill move",
+      "effect": "Charge up of 10 seconds, can be cancelled if attacked during charge up, once charged up fully the move will kill anybody within the big hit box."
+  }
+}
