@@ -1,0 +1,24 @@
+{
+	"name": "Luffy",
+  "stats": {
+    "hp": 500,
+    "speed": 250,
+    "ac": 25
+  },
+  "abilities": {
+    "strength": 250,
+    "dexterity": 350,
+    "constitution": 1000,
+    "intelligence": 5,
+    "wisdom": 50,
+    "charisma": 5000
+  },
+  "attack": {
+    "name": "Gumo Gumo no Pistol",
+    "damage": 300
+  },
+  "special": {
+    "name": "Gear Second",
+    "description": "The user undergoes a transformation that enhances speed and attack by 250%."
+  }
+}
