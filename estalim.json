@@ -1,0 +1,25 @@
+{
+  "name": "estamil",
+  "stats": {
+    "hp": 100,
+    "ac": 100,
+    "speed": 1200
+  },
+  "abilities": { 
+    "strength": 18,
+    "dexterity": 100,
+    "constitution": 90,
+    "intelligence": 100,
+    "wisdom": 30,
+    "charisma": 100
+  },
+  "attack": { 
+    "name": "bite",
+    "damage": 6969
+  },
+  "special": {
+      "name": "invis",
+      "description": "invisible",
+      "effect": "Attacks while being invisible, deals +100 dmg"
+  }
+}
