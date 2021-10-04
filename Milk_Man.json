@@ -1,0 +1,25 @@
+{
+  "name": "Milk man",
+  "stats": {
+    "hp": 99999,
+    "ac": 10,
+    "speed": 200
+  },
+  "abilities": {
+    "strength": 5,
+    "dexterity": 999,
+    "constitution": 300,
+    "intelligence": 500,
+    "wisdom": 9999,
+    "charisma": 1000
+  },
+  "attack": {
+    "name": "milk bomb",
+    "damage": 500
+  },
+  "special": {
+      "name": "milk jug",
+      "description": "drinks a jug of milk",
+      "effect": "restores all its health and higthens its health cap by 100"
+  }
+}
