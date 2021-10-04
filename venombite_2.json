@@ -1,0 +1,25 @@
+{
+	"name": "Venombite_2",
+	"stats": {
+		"hp": 80,
+		"ac": 87,
+		"speed": 65
+	},
+	"abilities": {
+		"strength": 89,
+		"dexterity": 80,
+		"constitution": 90,
+		"intelligence": 14,
+		"wisdom": 5,
+		"charisma": 5
+	},
+	"attack": {
+		"name": "venomflicker",
+		"damage": 95
+	},
+	"special": {
+		"name": "venom-deadly-dart",
+		"description": "Venombite spews pointy darts which have venom on the pointy end.",
+		"effect": "Opponent dies in maximum of 5 minutes after getting hit by venom-dart."
+	}
+}
