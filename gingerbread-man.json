@@ -1,0 +1,42 @@
+{
+  
+  "name": "Ginger bread man",
+  "stats": {
+    "hp": 600000000000,
+    "ac": 1490,
+    "speed": 1000000000000000000000000000000000000000000000,
+    
+  },
+  "abilities": {
+    "strength": 100,
+    "dexteritiy": 100000000000000000000000000000000000000000000000,
+    "constitution": 20,
+    "intelligence": 3000,
+    "wisdom": 10,
+    "charisma": 50000000000
+    
+  },
+  
+  "attack": {
+    
+   "name": "ginger bomb",
+    "damage":10000000000000000
+    
+    
+  },
+  
+  "special":{
+    
+    "name": "oven special",
+    "description": "tosses their victim in an oven for 60 minutes at 350 degrees",
+    "effect": "There vctim is turned into a ginger bread man"
+  }
+  
+}
+    
+  
+  
+  
+  
+  
+  }
