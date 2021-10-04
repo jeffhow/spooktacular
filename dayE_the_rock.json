@@ -1,0 +1,29 @@
+{
+	"name": "daye the rock",
+	"stats": {
+		"hp": 100000000000000000000000000000000000000000000000000000,
+		"ac": 0,
+		"speed": 0
+	},
+	"abilities": {
+		"strength": 1000000,
+		"dexterity": 10,
+		"constitution": 999999,
+		"intelligence": 100,
+		"wisdom": 100000000000000000000000000000000000000000000000000000000,
+		"charisma": 0
+	},
+	"attack": {
+		"name": "death stare",
+		"damage": 1000
+	},
+	"special": {
+		"name": "stands in place",
+		"description":
+
+			"its still, but it moves_ its harmless but theres a threat_ you fear it, but theres nothing._ you hear it,but theres no sound._  Before you.._  is daye the rock"
+
+			,
+		"effect": "make you really really uncomfortable"
+	}
+}
