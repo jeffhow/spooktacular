@@ -1,0 +1,25 @@
+{
+  "name": "Napser",
+  "stats": {
+    "hp": 1001,
+    "ac": 1001,
+    "speed": 1001
+  },
+  "abilities": {
+    "strength": 901,
+    "dexterity": 501,
+    "constitution": 110,
+    "intelligence": 1,
+    "wisdom": 1,
+    "charisma": 101
+  },
+  "attack": {
+    "name": "Let's go",
+    "damage": 1002
+  },
+  "special": {
+      "name": "black style",
+      "description": "stinky black liquid, which has a harsh eefect on body",
+      "effect": "makes you all black and week with his dangerous black liquid"
+  }
+}
