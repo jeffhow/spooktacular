@@ -1,0 +1,25 @@
+{
+  "name": "Mr. Petty",
+  "stats": {
+    "hp": 100,
+    "ac": 1000,
+    "speed": 500
+  },
+  "abilities": {
+    "strength": 50,
+    "dexterity": 100,
+    "constitution": 10,
+    "intelligence": 50000,
+    "wisdom": 100000,
+    "charisma": 100000
+  },
+  "attack": {
+    "name": "Calling Card",
+    "damage": 150
+  },
+  "special" : {
+    "name": "Chilling witcho homies",
+    "description": "The user distracts everyone with this phrase allowing them to leave and go make MORE copies of work",
+    "effect": "Smoke bomb" 
+  }
+}
