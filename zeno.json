@@ -1,0 +1,25 @@
+{
+  "name": "zeno",
+  "stats": {
+    "hp": 1000,
+    "ac": 200,
+    "speed":120
+  },
+  "abilities": {
+    "strength": 800,
+    "dexterity": 99,
+    "constitution": 99,
+    "intelligence": 99,
+    "wisdom": 99,
+    "charisma": 99
+  },
+  "attack": {
+    "name": "soccer ball",
+    "damage": 100
+  },
+  "special":kinto {
+      "name": "juchindaison",
+      "description": "Fight between Monster/god",
+      "effect": ""
+  }
+}
