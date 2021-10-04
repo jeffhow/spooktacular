@@ -1,0 +1,25 @@
+{
+  "name": "finishing move",
+  "stats": {
+    "hp": 100000000000000,
+    "ac": 90000000,
+    "speed": 9000000000
+  },
+  "abilities": {
+    "strength": 9000000,
+    "dexterity": 90000000,
+    "constitution": 90000000000000,
+    "intelligence": 900000000,
+    "wisdom": 9000000000,
+    "charisma": 9000000000000000000
+  },
+  "attack": {
+    "name": "finish",
+    "damage": 999999999999999999
+  },
+  "special": {
+      "name": "finsher",
+      "description": "finisher deal's the hp of the targets finishing them in the first strike",
+      "effect": "finish's target in first strike regardless of the targets hp/ac"
+  }
+}
