@@ -1,0 +1,25 @@
+{
+  "name": "Doofenshmirtz",
+  "stats": {
+    "hp": 20,
+    "ac": 5,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 5,
+    "dexterity": 80,
+    "constitution": 80,
+    "intelligence": 100,
+    "wisdom": 10,
+    "charisma": 5
+  },
+  "attack": {
+    "name": "Basic Marital Arts",
+    "damage": 20
+  },
+  "special": {
+      "name": "x-Inator",
+      "description": "Upon activation Doofenshmirtz can create a machine",
+      "effect": "50% chance the invention is useful and deals 200 dmg to enemies. 50% chance the invention backfires and deals 50 damage to caster."
+  }
+}
