@@ -1,0 +1,25 @@
+{
+  "name": "klown",
+  "stats": {
+    "hp": 100,
+    "ac": 50,
+    "speed": 200
+  },
+  "abilities": {
+    "strength": 60,
+    "dexterity": 40,
+    "constitution": 1,
+    "intelligence": 1,
+    "wisdom": 1,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "laser",
+    "damage": 30
+  },
+  "special": {
+      "name": "superpunch",
+      "description": "super punch that deals a heavy blow to enemy",
+      "effect": "80"
+  }
+}
