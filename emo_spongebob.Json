@@ -1,0 +1,25 @@
+{
+  "name": "emo spongebob",
+  "stats": {
+    "hp": 413,
+    "ac": 10000,
+    "speed": 10
+  },
+  "abilities": {
+    "strength": 1,
+    "dexterity": 1000,
+    "constitution": 1,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "hair wip",
+    "damage": 100
+  },
+  "special": {
+      "name": "the glare of 1000 souls",
+      "description": "the souls stares upon you, you see death, you see life, you see hope, but you cannot see yourself",
+      "effect": "turn emo"
+  }
+}
