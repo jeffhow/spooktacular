@@ -1,0 +1,25 @@
+{
+  "name": "Walker",
+  "stats": {
+    "hp": 15,
+    "ac": 90,
+    "speed": 5
+  },
+  "abilities": {
+    "strength": 15,
+    "dexterity": 5,
+    "constitution": 0,
+    "intelligence": 0,
+    "wisdom": 0,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "Chomp",
+    "damage": 10
+  },
+  "special": {
+      "name": "Zombify",
+      "description": "Turn you to a zombie",
+      "effect": "If within range a zombie can turn any non-zombie into a zombie"
+  }
+}
