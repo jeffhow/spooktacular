@@ -1,0 +1,25 @@
+{
+  "name": "Twilight",
+  "stats": {
+    "hp": 100,
+    "ac": 10,
+    "speed": 30
+  },
+  "abilities": {
+    "strength": 20,
+    "dexterity": 50,
+    "constitution": 30,
+    "intelligence": 70,
+    "wisdom": 60,
+    "charisma": 40
+  },
+  "attack": {
+    "name": "Mind Control",
+    "damage": 15
+  },
+  "special": {
+      "name": "Mind Breaker",
+      "description": "This move can either drain 80% of your HP or it can drain 80% of the opponents HP. High risk, high reward.",
+      "effect": "Flip a coin: Call it wrong and you lose 80% of remaining HP, Call it right and your opponent loses 80% of their HP."
+  }
+}
