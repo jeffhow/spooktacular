@@ -1,0 +1,23 @@
+{
+  "name": "EvilDuck",
+  "stats": {
+    "hp": 140,
+    "ac": 113,
+    "speed": 45
+  },
+  "abilities": {
+    "strength": 15,
+    "dexterity": 24,
+    "constitution": 10,
+    "intelligence": 16,
+    "wisdom": 0,
+    "charisma":20
+  },
+  "attack": {
+    "name": "Bite",
+    "damage": 14
+  },
+  "special": {
+    "name": "He's a big boi"
+    "description": "The evil duck becomes a big boy, and is still evil; so keep running.",
+    "effect": "Can crush anything just by walking."
