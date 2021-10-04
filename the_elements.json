@@ -1,0 +1,25 @@
+{
+  "name": "The Elements",
+  "stats": {
+    "hp": 118,
+    "ac": 94,
+    "speed": 172
+  },
+  "abilities": {
+    "strength": 300,
+    "dexterity": 13,
+    "constitution": 82,
+    "intelligence": 118,
+    "wisdom": 176,
+    "charisma": 10
+  },
+  "attack": {
+    "name": "Decay",
+    "damage": 118-1
+  },
+  "special": {
+      "name": "Marge",
+      "description": "Two Elements combine and make a new element.",
+      "effect": "You decay into a random element, and now you are the element, you forget what it was like to be human, you kill other humans to find out what you were once were."
+  }
+}
