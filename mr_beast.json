@@ -1,0 +1,25 @@
+{
+  "name": "Mr.Beast",
+  "stats": {
+    "hp": 100,
+    "ac": 10,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 3,
+    "dexterity": 16,
+    "constitution": 0,
+    "intelligence": 134,
+    "wisdom": 12,
+    "charisma": 8
+  },
+  "attack": {
+    "name": "My 1000000$ tank",
+    "damage": 1219210291201921029
+  },
+  "special": {
+    "name": "Infini money",
+    "description": "Mr.Beast buys your life points at start of battle ",
+    "effect": "You lose, you have no hp. What did you expect? A cookie? A life? ._."
+  }
+}
