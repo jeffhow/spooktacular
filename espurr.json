@@ -1,0 +1,25 @@
+{
+	"name": "Espurr",
+	"stats": {
+		"hp": 600,
+		"ac": 23,
+		"speed": 56
+	},
+	"abilities": {
+		"strength": 300,
+		"dexterity": 100,
+		"constitution": 89,
+		"intelligence": 67,
+		"wisdom": 17,
+		"charisma": 0
+	},
+	"attack": {
+		"name": "Physic Ball",
+		"damage": 130
+	},
+	"special": {
+		"name": "Eye",
+		"description": "Will stand there and look at you for a loooooonnnnng time",
+		"effect": "A classified cognitohazard will occur and the victim will lose all vision, it can't explaned."
+	}
+}
