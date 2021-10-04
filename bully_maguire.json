@@ -12,7 +12,7 @@
     "intelligence": 70,
     "wisdom": 80,
     "charisma": 1000
-  ,}
+  },
   "attack": {
     "name": "I'm gonna put some dirt in your eye",
     "damage": 150
