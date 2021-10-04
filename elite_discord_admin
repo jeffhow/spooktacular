@@ -1,0 +1,24 @@
+{
+  "name": "discord admin",
+  "stats":{
+    "hp": 45,
+    "ac": 1,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 35,
+    "dexterity": 12,
+    "constitution": 1,
+    "intellegence": 2,
+    "wisdom": 0,
+    "charisma": 0
+  },
+  "attack": {
+    "name": "Ban Hammer",
+    "damage": 12,
+  },
+  "special": {
+    "name": "Digital World",
+    "description": "10x hit points when aligned with 'discord girlfriend'. 10x attack and dexterity when drawn in the internet biome. Gains 200x intellegence when drawn inside the League of Legends biome."
+  }
+}
