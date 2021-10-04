@@ -1,0 +1,25 @@
+{
+  "name": "Spongebob",
+  "stats": {
+    "hp": 10,
+    "ac": 5,
+    "speed": 25
+  },
+  "abilities": {
+    "strength": 5,
+    "dexterity": 15,
+    "constitution": 100,
+    "intelligence": 10,
+    "wisdom": 80,
+    "charisma": 22
+  },
+  "attack": {
+    "name": "Laugh",
+    "damage": 200
+  },
+  "special": {
+      "name": "Bubble Blower",
+      "description": "A state that transform the caster into the ultimate bubble blower",
+      "effect": "Gives the caster a 20% boost to speed and any attacks that hit during this state will blind the enemy for 30 seconds"
+  }
+}
