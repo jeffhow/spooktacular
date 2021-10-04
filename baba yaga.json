@@ -1,0 +1,25 @@
+{
+	"name": "baba yaga",
+	"stats": {
+		"hp": 5000,
+		"ac": 70,
+		"speed": 90
+	},
+	"abilities": {
+		"strength": 1000,
+		"dexterity": 600,
+		"constitution": 200,
+		"intelligence": 900,
+		"wisdom": 1000,
+		"charisma": 0
+	},
+	"attack": {
+		"name": "dark bad",
+		"damage": 500
+	},
+	"special": {
+		"name": "devil",
+		"description": "A fury from hell",
+		"effect": "blindness and burn"
+	}
+}
