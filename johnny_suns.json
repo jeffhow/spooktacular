@@ -1,0 +1,25 @@
+{
+  "name": "John John",
+  "stats": {
+    "hp": 100,
+    "ac": 100,
+    "speed": 1000
+  },
+  "abilities": { 
+    "strength": 10,
+    "dexterity": 100,
+    "constitution": 69,
+    "intelligence": 50,
+    "wisdom": 50,
+    "charisma": 1000
+  },
+  "attack": { 
+    "name": "penatration",
+    "damage": 420
+  },
+  "special": {
+      "name": "inv protection",
+      "description": "invisible defense",
+      "effect": "guards against anything known to man"
+  }
+}
