@@ -1,0 +1,42 @@
+{
+  
+  "name": "pennywise",
+  "stats": {
+    "hp": 10,
+    "ac": 10,
+    "speed": 50,
+    
+  },
+  "abilities": {
+    "strength": 2,
+    "dexteritiy": 30,
+    "constitution": 2,
+    "intelligence": 3,
+    "wisdom": 1,
+    "charisma": 10
+    
+  },
+  
+  "attack": {
+    
+   "name": "sewer swiper",
+    "damage":150
+    
+    
+  },
+  
+  "special":{
+    
+    "name": "sewer ripper",
+    "description": "drags victim in the sewer",
+    "effect": "Eats his victim."
+  }
+  
+}
+    
+  
+  
+  
+  
+  
+  }
