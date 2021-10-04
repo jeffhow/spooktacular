@@ -1,0 +1,25 @@
+{
+	"name": "Music",
+	"stats": {
+		"hp": 22,
+		"ac": 23,
+		"speed": 0
+	},
+	"abilities": {
+		"strength": 1,
+		"dexterity": 12,
+		"constitution": 8,
+		"intelligence": 7,
+		"wisdom": 0,
+		"charisma": 0
+	},
+	"attack": {
+		"name": "None",
+		"damage": 0
+	},
+	"special": {
+		"name": "Relax",
+		"description": "Come and take a break from the horror",
+		"effect": "You find the will to keep going, but you'll lose hearing after 4 songs, be careful."
+	}
+}
