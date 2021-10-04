@@ -1,0 +1,25 @@
+{
+  "name": "Rick Astley",
+  "stats": {
+    "hp": 10,
+    "ac": 1,
+    "speed": 80
+  },
+  "abilities": {
+    "strength": 75,
+    "dexterity": 80,
+    "constitution": 58,
+    "intelligence": 60,
+    "wisdom": 100,
+    "charisma": 500
+  },
+  "attack": {
+    "name": "you know the rules and so do I",
+    "damage": 80
+  },
+  "special": {
+      "name": "Rick Roll",
+      "description": "Never gonna give you up never gonna let you down never gonna turn around and desert you never gonna make you cry never gonna say goodbye never gonna tell a lie and hurt you ",
+      "effect": "makes you dance for 10 seconds"
+  }
+}
