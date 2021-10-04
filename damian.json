@@ -1,0 +1,25 @@
+{
+  "name": "Damian",
+  "stats": {
+    "hp": 100,
+    "ac": 300,
+    "speed": 50
+  },
+  "abilities": {
+    "strength": 30,
+    "dexterity": 200,
+    "constitution": 100,
+    "intelligence": 99,
+    "wisdom": 20,
+    "charisma": 3
+  },
+  "attack": {
+    "name": "Finger slap",
+    "damage": 70
+  },
+  "special": {
+      "name": "Devious Lick",
+      "description": "The character robs you of all your belongings and takes your stats to increase his",
+      "effect": "600"
+  }
+}
