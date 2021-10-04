@@ -1,0 +1,25 @@
+{
+	"name": "Kyubi",
+	"stats": {
+		"hp": 1060,
+		"ac": 840,
+		"speed": 1140
+	},
+	"abilities": {
+		"strength": 134,
+		"dexterity": 20,
+		"constitution": 50,
+		"intelligence": 100,
+		"wisdom": 300,
+		"charisma": 10
+	},
+	"attack": {
+		"name": "Tail Slap",
+		"damage": 120
+	},
+	"special": {
+		"name": "Inferno",
+		"description": "	Creates a massive fireball and burns enemies to ashes.",
+		"effect": "Fire damage overtime."
+	}
+}
