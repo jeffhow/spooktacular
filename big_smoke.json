@@ -1,0 +1,25 @@
+{
+  "name": "big smoke",
+  "stats": {
+    "hp": 50,
+    "ac": 1,
+    "speed": 12
+  },
+  "abilities": {
+    "strength": 90,
+    "dexterity": 42,
+    "constitution": 56,
+    "intelligence": 8,
+    "wisdom": 100,
+    "charisma": 120
+  },
+  "attack": {
+    "name": "you picked the wrong house fool!",
+    "damage": 100
+  },
+  "special": {
+      "name": "I'll have two number nines a number nine large a number six with extra dip a number seven two forty-fives one with cheese and a large soda.",
+      "description": "orders a large amount of fast food",
+      "effect": "makes big smoke invincible until the food order is finished"
+  }
+}
