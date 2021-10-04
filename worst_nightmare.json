@@ -1,0 +1,25 @@
+{
+  "name": "Worst Nightmare",
+  "stats": {
+    "hp": null,
+    "ac": null,
+    "speed": null
+  },
+  "abilities": {
+    "strength": null,
+    "dexterity": null,
+    "constitution": null,
+    "intelligence": null,
+    "wisdom": null,
+    "charisma": null
+  },
+  "attack": {
+    "name": null,
+    "damage": null
+  },
+  "special": {
+      "name": null,
+      "description": "Force developers to account for null for every property affected by this monster. Does not come up during testing.",
+      "effect": "NullReferenceException"
+  }
+}
