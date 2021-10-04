@@ -1,0 +1,25 @@
+{
+  "name": "Frankenstein",
+  "stats": {
+    "hp": 70,
+    "ac": 50,
+    "speed": 59
+  },
+  "abilities": {
+    "strength": 78,
+    "dexterity": 14,
+    "constitution": 18,
+    "intelligence": 18,
+    "wisdom": 8,
+    "charisma": 13
+  },
+  "attack": {
+    "name": "revolver",
+    "damage": 80
+  },
+  "special": {
+      "name": "Raise the Dead",
+      "description": "Harnesses the power of lightning to imbue a corpse with unholy life",
+      "effect": "Creates zombie with minor intelligence to defend caster."
+  }
+}
