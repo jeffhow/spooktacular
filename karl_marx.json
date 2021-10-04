@@ -1,0 +1,25 @@
+{
+  "name": "Karl Marx",
+  "stats": {
+    "hp": 20,
+    "ac": 10,
+    "speed": 25
+  },
+  "abilities": {
+    "strength": 5,
+    "dexterity": 15,
+    "constitution": 100,
+    "intelligence": 100,
+    "wisdom": 100,
+    "charisma": 65
+  },
+  "attack": {
+    "name": "Reform",
+    "damage": 50
+  },
+  "special": {
+      "name": "Equality",
+      "description": "A state that allows the character to control various aspects of the other characters",
+      "effect": "Will lower all players to 10 hp to equalize the playing field"
+  }
+}
