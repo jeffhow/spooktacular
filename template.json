@@ -1,0 +1,25 @@
+{
+	"name": "Template",
+	"stats": {
+		"hp": 10,
+		"ac": 10,
+		"speed": 10
+	},
+	"abilities": {
+		"strength": 10,
+		"dexterity": 10,
+		"constitution": 10,
+		"intelligence": 10,
+		"wisdom": 10,
+		"charisma": 10
+	},
+	"attack": {
+		"name": "Base Attack",
+		"damage": 10
+	},
+	"special": {
+		"name": "Special Attack",
+		"description": "This is a special attack",
+		"effect": "The target is inflicted with an effect"
+	}
+}

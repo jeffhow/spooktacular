@@ -1,0 +1,24 @@
+{
+  "name": "Kentrell DeSaean Gaulden",
+  "stats": {
+    "hp": 10000,
+    "ac": 1000,
+    "speed": 10000
+  },
+  "abilities": {
+    "strength": 10000,
+    "dexterity": 2000,
+    "constitution": 5000,
+    "intelligence": 2000,
+    "wisdom": 1000,
+    "charisma": 10000
+  },
+  "attack": {
+    "name": "Demon Time",
+    "damage": 5000
+  },
+  "special": {
+      "name": "4KT",
+      "description": "Summons 4KT minions to do his bidding."
+  }
+}
