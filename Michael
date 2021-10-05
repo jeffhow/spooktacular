@@ -1,0 +1,25 @@
+{
+	"name": "Michael",
+	"stats": {
+		"hp": 800,
+		"ac": 400,
+		"speed": 800
+	},
+	"abilities": {
+		"strength": 700,
+		"dexterity": 200,
+		"constitution": 800,
+		"intelligence": 80,
+		"wisdom": 400,
+		"charisma": 1000
+	},
+	"attack": {
+		"name": "KICK OF HEAVEN!",
+		"damage": 1000
+	},
+	"special": {
+		"name": "HEHE",
+		"description": "He does a misteryous dance move that leaves everyone with the mouth opne :O",
+		"effect": "STUND AND SUPER DAMAGE!"
+	}
+}
