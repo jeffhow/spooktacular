@@ -16,9 +16,9 @@
   "attack": {
     "name": "Devious punch",
     "damage": 23
-  }
+  },
   "special":{
-    "name": "Devious with clout"
+    "name": "Devious with clout",
     "description": "Gains 150 speed when spawned in the 'tiktok trend' zone. If there is no tiktok zone in one turn, discard John.",
     "effect": "Ay man, you already know who it is, man, it’s your boy Lil B Ay man, this that Hoop Life mixtape, this that pretty boy music If you on the streets, ma-. Darnit John!! You really stole my Nikes again!? Now I have to walk home without shoes again :(."
   }
