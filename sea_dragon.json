@@ -1,0 +1,25 @@
+{
+  "name": "Sea Dragon",
+  "stats": {
+    "hp": 950,
+    "ac": 500,
+    "speed": 750
+  },
+  "abilities": {
+    "strength": 800,
+    "dexterity": 750,
+    "constitution": 200,
+    "intelligence": 600,
+    "wisdom": 400,
+    "charisma": 300
+  },
+  "attack": {
+    "name": "Sea Dragon's Roar",
+    "damage": 800
+  },
+  "special": {
+      "name": "Sea Dragon's Lair",
+      "description": "Defensive spell",
+      "effect": "Protects the Sea Dragon from external attacks but doesn't restrict it's own attacks"
+  }
+}
