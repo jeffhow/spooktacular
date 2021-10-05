@@ -1,0 +1,24 @@
+{
+  "name": "Discord Girlfreind",
+  "stats" : {
+    "hp": 30,
+    "ac": 20,
+    "speed": 12,
+  },
+  "abilities": {
+    "strength": 24,
+    "dexterity": 24,
+    "constitution": 120,
+    "intellegence": 35,
+    "wisdom": 32,
+    "charisma": 234
+  },
+  "attack":{
+    "name" : "Give me nitro uwu"
+    "damage": 2100
+  },
+  "special": {
+    "name": "Cunningness and UwU's (eugh!)",
+    "description": "Gains x5 stats in the internet, and gaming biome. Dicord mod arcetypes gain 2x their stats when aligned with this monster. Normal type monsters lose 10 hp per turn as there dying of cring-. Oh no, CRINGE!! *dies of cringe*".
+  }
+}
