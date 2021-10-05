@@ -1,0 +1,25 @@
+{
+  "name": "Itachi Uchiha",
+  "stats": {
+    "hp": 600,
+    "ac": 85,
+    "speed": 900
+  },
+  "abilities": {
+    "strength": 950,
+    "dexterity": 950,
+    "constitution": 800,
+    "intelligence": 950,
+    "wisdom": 800,
+    "charisma": 100
+  },
+  "attack": {
+    "name": "Mangekyo Sharingan",
+    "damage": 800
+  },
+  "special": {
+      "name": "Amaterasu",
+      "description": "Produces black flames and extinguishes only when the person dies",
+      "effect": "Death by buring till the body vanishes."
+  }
+}
