@@ -1,12 +1,12 @@
-import json, os
+import json, os, glob
 
 def load_monsters():
-  results = {}
-  for root, dirs, files in os.walk("jsons", topdown=False):
-    for file in files:
-      dat = json.loads(str(open("jsons/"+file, "r").read()))
-      results[dat["name"]] = dat
-  return results
+  files = [f for f in os.listdir(os.getcwd()) if f.endswith('.json')]
+  print("const monsters = [")
+  for f in files:
+    with open(f) as file:
+      print(file.read() + ",")
+  print("]")
 
 if __name__ == "__main__":
-  print(load_monsters())
+  load_monsters()
