@@ -1,0 +1,25 @@
+{
+    "name": "Onslaught",
+    "stats": {
+      "hp": 8,
+      "ac": 6,
+      "speed": 3
+    },
+    "abilities": {
+      "strength": 7,
+      "dexterity": 6,
+      "constitution": 8,
+      "intelligence": 6,
+      "wisdom": 5,
+      "charisma": 7
+    },
+    "attack": {
+      "name": "Psionic Spikes",
+      "damage": 6
+    },
+    "special": {
+        "name": "Telepathic Immunity:",
+        "description": "Onslaught's mind is immune to all traces of telepathy due to his armor, especially to the duplicate of Magneto's helmet, so that it is effectively impossible to manipulate or read it.",
+        "effect": "his telepathy is capable of exiting his armor, thus allowing his psionic power to be used on other beings."
+    }
+  }
