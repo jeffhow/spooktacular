@@ -1,0 +1,25 @@
+{
+	"name": "AMONG US",
+	"stats": {
+		"hp": 1000,
+		"ac": 400,
+		"speed": 90
+	},
+	"abilities": {
+		"strength": 8000,
+		"dexterity": 2020,
+		"constitution": 505,
+		"intelligence": 10000,
+		"wisdom": 6900,
+		"charisma": 1001
+	},
+	"attack": {
+		"name": "THE STAB",
+		"damage": 500
+	},
+	"special": {
+		"name": "THE IMPOSTER",
+		"description": "IT TURNS INTO IT TRUE FORM AND IT WILL BETRAY YOU! HE IS A SUSSY BAKA.",
+		"effect": "KILLS ONE SHOT WITH IN SECONDS! ONE KILL PER 30 SECONDS"
+	}
+}
