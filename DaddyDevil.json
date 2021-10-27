@@ -1,0 +1,25 @@
+{
+	"name": "DaddyDevil",
+	"stats": {
+		"hp": 90,
+		"ac": 87,
+		"speed": 79
+	},
+	"abilities": {
+		"strength": 80,
+		"dexterity": 44,
+		"constitution": 57,
+		"intelligence": 75,
+		"wisdom": 50,
+		"charisma": 10
+	},
+	"attack": {
+		"name": "Lighting thor",
+		"damage": 70
+	},
+	"special": {
+		"name": "Mind Hunter",
+		"description": " Mind Hunter or DaddyDevil knows where player hide and at which time player have high chance to attack. Mind Hunter read mind ",
+		"effect": "Read mind and damage the player through lighting from the cloud"
+	}
+}
