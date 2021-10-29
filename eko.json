@@ -1,0 +1,25 @@
+{
+  "name": "Eko",
+  "stats": {
+    "hp": 100,
+    "ac": 30,
+    "speed": 20
+  },
+  "abilities": {
+    "strength": 19,
+    "dexterity": 50,
+    "constitution": 40,
+    "intelligence": 55,
+    "wisdom": 12,
+    "charisma": 1
+  },
+  "attack": {
+    "name": "cry",
+    "damage": 40
+  },
+  "special": {
+      "name": "attract",
+      "description": "attracts the enemy towards itself",
+      "effect": "weaken the enemy"
+  }
+}
